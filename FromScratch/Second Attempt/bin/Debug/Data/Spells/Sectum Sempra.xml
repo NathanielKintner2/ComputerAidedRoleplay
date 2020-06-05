@@ -1,0 +1,108 @@
+<Spell xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt">
+  <Description />
+  <GoogleSheetID i:nil="true" />
+  <SpellCost>0</SpellCost>
+  <SpellEffects xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:KeyValueOfEffectTupleOfdoubledoubledoubleYn0NQ6XL>
+      <d2p1:Key>
+        <damageType i:nil="true" />
+        <deterioration>1</deterioration>
+        <effectLength>3</effectLength>
+        <effectStrength>-3</effectStrength>
+        <effectTag>NoTag</effectTag>
+        <effectTarget i:nil="true" />
+        <effectTypes>
+          <EffectHolder.EffectType>Regeneration</EffectHolder.EffectType>
+        </effectTypes>
+        <isPermanent>false</isPermanent>
+      </d2p1:Key>
+      <d2p1:Value xmlns:d4p1="http://schemas.datacontract.org/2004/07/System">
+        <d4p1:m_Item1>-0.5</d4p1:m_Item1>
+        <d4p1:m_Item2>0</d4p1:m_Item2>
+        <d4p1:m_Item3>-0.5</d4p1:m_Item3>
+      </d2p1:Value>
+    </d2p1:KeyValueOfEffectTupleOfdoubledoubledoubleYn0NQ6XL>
+  </SpellEffects>
+  <SpellName>Sectum Sempra</SpellName>
+  <SpellWeapons xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:KeyValueOfWeapondoublenlt4N763>
+      <d2p1:Key>
+        <Count>0</Count>
+        <Description>Don't go to Japan</Description>
+        <Enchantments />
+        <IsEquipped>false</IsEquipped>
+        <IsIdentified>false</IsIdentified>
+        <ItemEffects />
+        <ItemName>Giant Tentacles</ItemName>
+        <Type>Gloves</Type>
+        <UnidentifiedDescription i:nil="true" />
+        <Use>Equipable</Use>
+        <Weight>10</Weight>
+        <BlockingDifficulty>5</BlockingDifficulty>
+        <DamageTypes>
+          <d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+            <d2p1:Key>Crush</d2p1:Key>
+            <d2p1:Value>3</d2p1:Value>
+          </d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+        </DamageTypes>
+        <DefensiveBonus>0</DefensiveBonus>
+        <ExcessStrengthMultiplier>0.35</ExcessStrengthMultiplier>
+        <OffensiveBonus>2</OffensiveBonus>
+        <ParryBreak>3</ParryBreak>
+        <ParryStrength>1</ParryStrength>
+        <StaminaRequirement>5</StaminaRequirement>
+        <WeaponTypes>
+          <Utilities.WeaponType>Melee</Utilities.WeaponType>
+          <Utilities.WeaponType>Physical</Utilities.WeaponType>
+          <Utilities.WeaponType>Brawl</Utilities.WeaponType>
+          <Utilities.WeaponType>Flail</Utilities.WeaponType>
+          <Utilities.WeaponType>Innate</Utilities.WeaponType>
+        </WeaponTypes>
+      </d2p1:Key>
+      <d2p1:Value>10</d2p1:Value>
+    </d2p1:KeyValueOfWeapondoublenlt4N763>
+    <d2p1:KeyValueOfWeapondoublenlt4N763>
+      <d2p1:Key>
+        <Count>0</Count>
+        <Description>Thy soul is mine</Description>
+        <Enchantments />
+        <IsEquipped>false</IsEquipped>
+        <IsIdentified>false</IsIdentified>
+        <ItemEffects />
+        <ItemName>Drain Soul</ItemName>
+        <Type>Gloves</Type>
+        <UnidentifiedDescription i:nil="true" />
+        <Use>Equipable</Use>
+        <Weight>0</Weight>
+        <BlockingDifficulty>35</BlockingDifficulty>
+        <DamageTypes>
+          <d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+            <d2p1:Key>Impact</d2p1:Key>
+            <d2p1:Value>0.4</d2p1:Value>
+          </d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+          <d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+            <d2p1:Key>Cold</d2p1:Key>
+            <d2p1:Value>0.4</d2p1:Value>
+          </d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+          <d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+            <d2p1:Key>Mental</d2p1:Key>
+            <d2p1:Value>1</d2p1:Value>
+          </d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+        </DamageTypes>
+        <DefensiveBonus>0</DefensiveBonus>
+        <ExcessStrengthMultiplier>0</ExcessStrengthMultiplier>
+        <OffensiveBonus>0</OffensiveBonus>
+        <ParryBreak>2</ParryBreak>
+        <ParryStrength>0</ParryStrength>
+        <StaminaRequirement>80</StaminaRequirement>
+        <WeaponTypes>
+          <Utilities.WeaponType>Ranged</Utilities.WeaponType>
+          <Utilities.WeaponType>Magical</Utilities.WeaponType>
+          <Utilities.WeaponType>Innate</Utilities.WeaponType>
+          <Utilities.WeaponType>Curse</Utilities.WeaponType>
+        </WeaponTypes>
+      </d2p1:Key>
+      <d2p1:Value>-5</d2p1:Value>
+    </d2p1:KeyValueOfWeapondoublenlt4N763>
+  </SpellWeapons>
+</Spell>

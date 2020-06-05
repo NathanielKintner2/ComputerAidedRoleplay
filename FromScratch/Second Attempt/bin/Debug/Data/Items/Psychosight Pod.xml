@@ -1,0 +1,26 @@
+<Item xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt">
+  <Count>0</Count>
+  <Description>Bean that make you go WOAH....</Description>
+  <Enchantments xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <IsEquipped>false</IsEquipped>
+  <IsIdentified>false</IsIdentified>
+  <ItemEffects>
+    <Effect>
+      <damageType i:nil="true" />
+      <deterioration>0</deterioration>
+      <effectLength>10</effectLength>
+      <effectStrength>1</effectStrength>
+      <effectTag>NoTag</effectTag>
+      <effectTarget i:nil="true" />
+      <effectTypes>
+        <EffectHolder.EffectType>Reflex</EffectHolder.EffectType>
+      </effectTypes>
+      <isPermanent>false</isPermanent>
+    </Effect>
+  </ItemEffects>
+  <ItemName>Psychosight Pod</ItemName>
+  <Type>Potion</Type>
+  <UnidentifiedDescription i:nil="true" />
+  <Use>Consumable</Use>
+  <Weight>0.1</Weight>
+</Item>

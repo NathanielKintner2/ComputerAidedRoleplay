@@ -1,0 +1,610 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1E535F20-8F4D-473C-BC46-33A4D14A7B25}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Second_Attempt</RootNamespace>
+    <AssemblyName>CAR</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>F:\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>11F327222BB0BC3DB0CB7F269A2AE8149EDFD47B</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Second Attempt_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.5.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.5\lib\BouncyCastle.Crypto.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="HtmlAgilityPack, Version=1.11.7.0, Culture=neutral, PublicKeyToken=bd319b19eaf3b43a, processorArchitecture=MSIL">
+      <HintPath>..\packages\HtmlAgilityPack.1.11.7\lib\Net45\HtmlAgilityPack.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>..\packages\log4net.2.0.8\lib\net45-full\log4net.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Threading.Tasks, Version=1.0.12.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.Async.1.0.168\lib\net40\Microsoft.Threading.Tasks.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Threading.Tasks.Extensions, Version=1.0.12.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.Async.1.0.168\lib\net40\Microsoft.Threading.Tasks.Extensions.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Threading.Tasks.Extensions.Desktop, Version=1.0.168.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.Async.1.0.168\lib\net40\Microsoft.Threading.Tasks.Extensions.Desktop.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Net.Http.Extensions, Version=2.2.29.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Net.Http.2.2.29\lib\net45\System.Net.Http.Extensions.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Net.Http.Primitives, Version=4.2.29.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Net.Http.2.2.29\lib\net45\System.Net.Http.Primitives.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Net.Http.WebRequest" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Zlib.Portable, Version=1.11.0.0, Culture=neutral, PublicKeyToken=431cba815f6a8b5b, processorArchitecture=MSIL">
+      <HintPath>..\packages\Zlib.Portable.Signed.1.11.0\lib\portable-net4+sl5+wp8+win8+wpa81+MonoTouch+MonoAndroid\Zlib.Portable.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AfterCrits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AfterCrits.Designer.cs">
+      <DependentUpon>AfterCrits.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Armor.cs" />
+    <Compile Include="ArmorCreator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ArmorCreator.Designer.cs">
+      <DependentUpon>ArmorCreator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AttackChart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AttackChart.Designer.cs">
+      <DependentUpon>AttackChart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AttackOutcome.cs" />
+    <Compile Include="BattleTesting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BattleTesting.Designer.cs">
+      <DependentUpon>BattleTesting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CombatGridWriter.cs" />
+    <Compile Include="DataExport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataExport.Designer.cs">
+      <DependentUpon>DataExport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnchantmentCreator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnchantmentCreator.Designer.cs">
+      <DependentUpon>EnchantmentCreator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnchantmentLogic\Calculables\MathLogic.cs" />
+    <Compile Include="EnchantmentLogic\Calculables\MathLogicForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnchantmentLogic\Calculables\MathLogicForm.Designer.cs">
+      <DependentUpon>MathLogicForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnchantmentLogic\Calculable.cs" />
+    <Compile Include="Character.cs" />
+    <Compile Include="CharacterSkills.cs" />
+    <Compile Include="CharacterStatistics.cs" />
+    <Compile Include="CharCreator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CharCreator.Designer.cs">
+      <DependentUpon>CharCreator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CombatHolder.cs" />
+    <Compile Include="CombatNotes.cs" />
+    <Compile Include="CritCalculator.cs" />
+    <Compile Include="Combat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Combat.Designer.cs">
+      <DependentUpon>Combat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CombatDeclarations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CombatDeclarations.Designer.cs">
+      <DependentUpon>CombatDeclarations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CombatEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CombatEntry.Designer.cs">
+      <DependentUpon>CombatEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CombatItems.cs" />
+    <Compile Include="CombatScripts.cs" />
+    <Compile Include="Effect.cs" />
+    <Compile Include="EffectAdder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EffectAdder.Designer.cs">
+      <DependentUpon>EffectAdder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EffectHolder.cs" />
+    <Compile Include="EnchantmentLogic\Calculables\DoubleValue.cs" />
+    <Compile Include="EnchantmentLogic\Calculables\DoubleValueForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnchantmentLogic\Calculables\DoubleValueForm.Designer.cs">
+      <DependentUpon>DoubleValueForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnchantmentLogic\Calculables\EffectTypeCheck.cs" />
+    <Compile Include="EnchantmentLogic\Calculables\EffectTypeCheckForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnchantmentLogic\Calculables\EffectTypeCheckForm.Designer.cs">
+      <DependentUpon>EffectTypeCheckForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnchantmentLogic\Calculables\ParamReader.cs" />
+    <Compile Include="EnchantmentLogic\Calculables\ParamReaderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnchantmentLogic\Calculables\ParamReaderForm.Designer.cs">
+      <DependentUpon>ParamReaderForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnchantmentLogic\EnchantmentParameters.cs" />
+    <Compile Include="EnchantmentLogic\EnchantmentUtilities.cs" />
+    <Compile Include="EnchantmentLogic\FormWithLogicSetup.cs" />
+    <Compile Include="EnchantmentLogic\Calculables\GetVariable.cs" />
+    <Compile Include="EnchantmentLogic\Calculables\GetVariableForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnchantmentLogic\Calculables\GetVariableForm.Designer.cs">
+      <DependentUpon>GetVariableForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnchantmentLogic\Triggerables\CreateEffect.cs" />
+    <Compile Include="EnchantmentLogic\Triggerables\CreateEffectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnchantmentLogic\Triggerables\CreateEffectForm.Designer.cs">
+      <DependentUpon>CreateEffectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnchantmentLogic\Triggerables\IfElseLogic.cs" />
+    <Compile Include="EnchantmentLogic\Triggerables\IfElseLogicForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnchantmentLogic\Triggerables\IfElseLogicForm.Designer.cs">
+      <DependentUpon>IfElseLogicForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnchantmentLogic\Triggerables\MakeAttack.cs" />
+    <Compile Include="EnchantmentLogic\Triggerables\MakeAttackForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnchantmentLogic\Triggerables\MakeAttackForm.Designer.cs">
+      <DependentUpon>MakeAttackForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnchantmentLogic\Triggerables\PrintMessage.cs" />
+    <Compile Include="EnchantmentLogic\Triggerables\PrintMessageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnchantmentLogic\Triggerables\PrintMessageForm.Designer.cs">
+      <DependentUpon>PrintMessageForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnchantmentLogic\Triggerables\ReturnValue.cs" />
+    <Compile Include="EnchantmentLogic\Triggerables\ReturnValueForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnchantmentLogic\Triggerables\ReturnValueForm.Designer.cs">
+      <DependentUpon>ReturnValueForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnchantmentLogic\Triggerables\SetVariable.cs" />
+    <Compile Include="EnchantmentLogic\Triggerables\SetVariableForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnchantmentLogic\Triggerables\SetVariableForm.Designer.cs">
+      <DependentUpon>SetVariableForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnchantmentLogic\Calculables\SourceCheck.cs" />
+    <Compile Include="EnchantmentLogic\Calculables\SourceCheckForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnchantmentLogic\Calculables\SourceCheckForm.Designer.cs">
+      <DependentUpon>SourceCheckForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EquipStatusChanger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EquipStatusChanger.Designer.cs">
+      <DependentUpon>EquipStatusChanger.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HTMLWriter.cs" />
+    <Compile Include="Item.cs" />
+    <Compile Include="ItemAssigner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemAssigner.Designer.cs">
+      <DependentUpon>ItemAssigner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemCreator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemCreator.Designer.cs">
+      <DependentUpon>ItemCreator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoadingBlop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoadingBlop.Designer.cs">
+      <DependentUpon>LoadingBlop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnchantmentLogic\Logic.cs" />
+    <Compile Include="LootTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LootTable.Designer.cs">
+      <DependentUpon>LootTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master Attacker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master Attacker.Designer.cs">
+      <DependentUpon>Master Attacker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterCrit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterCrit.Designer.cs">
+      <DependentUpon>MasterCrit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterDeclarations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterDeclarations.Designer.cs">
+      <DependentUpon>MasterDeclarations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Shield.cs" />
+    <Compile Include="ShieldCreator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShieldCreator.Designer.cs">
+      <DependentUpon>ShieldCreator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SimpleServer.cs" />
+    <Compile Include="SingleAttack.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SingleAttack.Designer.cs">
+      <DependentUpon>SingleAttack.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SocketUtils.cs" />
+    <Compile Include="Spell.cs" />
+    <Compile Include="SpellAssigner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SpellAssigner.Designer.cs">
+      <DependentUpon>SpellAssigner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SpellCasting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SpellCasting.Designer.cs">
+      <DependentUpon>SpellCasting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SpellCreator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SpellCreator.Designer.cs">
+      <DependentUpon>SpellCreator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SpellResults.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SpellResults.Designer.cs">
+      <DependentUpon>SpellResults.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SpellScripts.cs" />
+    <Compile Include="SpellToCast.cs" />
+    <Compile Include="StartupScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StartupScreen.Designer.cs">
+      <DependentUpon>StartupScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnchantmentLogic\Triggerable.cs" />
+    <Compile Include="Utilities.cs" />
+    <Compile Include="Weapon.cs" />
+    <Compile Include="WeaponCreator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WeaponCreator.Designer.cs">
+      <DependentUpon>WeaponCreator.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AfterCrits.resx">
+      <DependentUpon>AfterCrits.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ArmorCreator.resx">
+      <DependentUpon>ArmorCreator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AttackChart.resx">
+      <DependentUpon>AttackChart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BattleTesting.resx">
+      <DependentUpon>BattleTesting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CharCreator.resx">
+      <DependentUpon>CharCreator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Combat.resx">
+      <DependentUpon>Combat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CombatDeclarations.resx">
+      <DependentUpon>CombatDeclarations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CombatEntry.resx">
+      <DependentUpon>CombatEntry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataExport.resx">
+      <DependentUpon>DataExport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EffectAdder.resx">
+      <DependentUpon>EffectAdder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnchantmentCreator.resx">
+      <DependentUpon>EnchantmentCreator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnchantmentLogic\Calculables\MathLogicForm.resx">
+      <DependentUpon>MathLogicForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnchantmentLogic\Calculables\DoubleValueForm.resx">
+      <DependentUpon>DoubleValueForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnchantmentLogic\Calculables\EffectTypeCheckForm.resx">
+      <DependentUpon>EffectTypeCheckForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnchantmentLogic\Calculables\GetVariableForm.resx">
+      <DependentUpon>GetVariableForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnchantmentLogic\Calculables\ParamReaderForm.resx">
+      <DependentUpon>ParamReaderForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnchantmentLogic\Triggerables\CreateEffectForm.resx">
+      <DependentUpon>CreateEffectForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnchantmentLogic\Triggerables\IfElseLogicForm.resx">
+      <DependentUpon>IfElseLogicForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnchantmentLogic\Triggerables\MakeAttackForm.resx">
+      <DependentUpon>MakeAttackForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnchantmentLogic\Triggerables\PrintMessageForm.resx">
+      <DependentUpon>PrintMessageForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnchantmentLogic\Triggerables\ReturnValueForm.resx">
+      <DependentUpon>ReturnValueForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnchantmentLogic\Triggerables\SetVariableForm.resx">
+      <DependentUpon>SetVariableForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnchantmentLogic\Calculables\SourceCheckForm.resx">
+      <DependentUpon>SourceCheckForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EquipStatusChanger.resx">
+      <DependentUpon>EquipStatusChanger.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemAssigner.resx">
+      <DependentUpon>ItemAssigner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemCreator.resx">
+      <DependentUpon>ItemCreator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoadingBlop.resx">
+      <DependentUpon>LoadingBlop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LootTable.resx">
+      <DependentUpon>LootTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master Attacker.resx">
+      <DependentUpon>Master Attacker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterCrit.resx">
+      <DependentUpon>MasterCrit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterDeclarations.resx">
+      <DependentUpon>MasterDeclarations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ShieldCreator.resx">
+      <DependentUpon>ShieldCreator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SingleAttack.resx">
+      <DependentUpon>SingleAttack.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SpellAssigner.resx">
+      <DependentUpon>SpellAssigner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SpellCasting.resx">
+      <DependentUpon>SpellCasting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SpellCreator.resx">
+      <DependentUpon>SpellCreator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SpellResults.resx">
+      <DependentUpon>SpellResults.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StartupScreen.resx">
+      <DependentUpon>StartupScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WeaponCreator.resx">
+      <DependentUpon>WeaponCreator.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Second Attempt_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="HTMLPages\CombatTerminal.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HTMLPages\InPipe.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HTMLPages\InventoryTerminal.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="zzloot.txt" />
+    <Content Include="Zzz.txt" />
+    <Content Include="ZZZStylePart.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ZZZStyleTest.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets" Condition="Exists('..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

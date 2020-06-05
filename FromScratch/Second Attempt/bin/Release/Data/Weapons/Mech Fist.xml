@@ -1,0 +1,18 @@
+<Weapon xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt">
+  <BlockingDifficulty>0</BlockingDifficulty>
+  <DamageTypes xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d2p1:Key>Crush</d2p1:Key>
+      <d2p1:Value>2</d2p1:Value>
+    </d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+  </DamageTypes>
+  <DefensiveBonus>2</DefensiveBonus>
+  <Description>For the punching</Description>
+  <ExcessStrengthMultiplier>0.75</ExcessStrengthMultiplier>
+  <OffensiveBonus>2</OffensiveBonus>
+  <ParryBreak>2</ParryBreak>
+  <ParryStrength>2</ParryStrength>
+  <StaminaRequirement>2</StaminaRequirement>
+  <WeaponName>Mech Fist</WeaponName>
+  <Weight>5</Weight>
+</Weapon>

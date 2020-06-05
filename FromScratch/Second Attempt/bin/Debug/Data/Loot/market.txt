@@ -1,0 +1,9 @@
+GENERAL FOODSTUFFS TOOLS AND ETC%@utilityItem%@armorPiece
+GENERAL FOODSTUFFS TOOLS AND ETC%@utilityItem%@armorPiece
+@utilityItem%@armorPiece
+@market%@armorPiece
+@market%@armorPiece
+@market%@armorPiece
+@market%@utilityItem
+@market%@utilityItem
+@market%@utilityItem

@@ -1,0 +1,42 @@
+﻿tier @d4 unburden: weight effect power = -teir (NEGATIVE effect)
+tier @d4 regenerate: regenerate effect power = tier/4
+tier @d4 energize: regenerate stamina effect power = tier
+tier @d4 offensive buff: OB effect power = tier
+tier @d4 defensive buff: DB effect power = tier
+tier @d4 @stat buff: stat effect power = tier
+tier @d4 @skill buff: on PAPER char sheet + to skill = tier
+ethereal: GM discresion. only interacts with souls. May be connected to a solid object,
+		like the handle of a weapon, or stored in an encorcelled box. In weapons, inflicts
+		soul damage rather than standard damage. Parry str = 0, 100 blocking difficulty. in
+		armor good vs elements, actually defends against soul damage, no protection vs standard
+indestructible: GM discresion. Cant be broken. Weapons may get slight pierce or slash bonus from
+		sharpness. Armor is generally VERY good, no better vs elements but hard armor becomes
+		absurd vs all non-impact physical damage, and soft armor is very good vs slash and pierce.
+		Weapons can generally be abused, used as tools, etc.
+glowing: a minor light source. Lets you see in pitch dark, but doesn't make much difference in half-light
+levitating: floats several inches above solid surfaces, as though magnetically repelled
+strangely hot: alwars warm. Could melt snow.
+strangely cold: always cold. Could chill water.
+nearly invisible: very difficult to see properly. Increase blocking difficulty by 5
+non euclidean: bends in strange ways that are difficult to follow. Add +0.1 mental damage
+mossy: covered in a greenish or brownish moss or lichen. Grows back.
+nightmarish: Terrifying, seems demonic or similar. Gross. +3 to imtimidate checks.
+tier @d6 @damageType resist: damage resistance increase = tier * 0.1
+tier @d6 @damageType block: damage block increase = tier
+tier @d6 @damageType strike: damage increase = tier *  0.2
+tier @d6 feint: blocking difficulty increase = tier
+tier @d6 parry: parry strength increase = tier * 0.25
+tier @d6 brute force: parry break increase = tier * 0.25
+tier @d6 interta conserve: excess str mod increase = tier * 0.1
+
+scroll: true single use, casts spell at SP (3 * scroll tier * spell tier)
+wand: multi use, casts spell (wand tier) times per day at SP (spell tier)
+staff: see wand
+tome: allows temporary learning of spell. (1 hour/tome tier) time to study, casts spell at SP (spell tier)
+tablet: semi-single use, casts spell at SP (2 * tablet tier * spell tier), recharge in town for (tablet tier + spell tier) crowns
+
+@color potion of healing: 3 round regen effect. minor potency = 5, standard = 10, greater = 25
+@color potion of stamina: 4 round stamina gain effect. minor potency = 20, standard = 40, greater = 100
+@color potion of rejuvenation: instant health and stamina gain. minor potency = 10, standard = 20, greater = 40, stamina = health * 4
+@color potion of seal wounds: seal wounds spell. minor SP = 5 standard = 10 greater = 25
+@color potion of regrowth: regrowth speall. minor SP = 5 standard = 10 greater = 25

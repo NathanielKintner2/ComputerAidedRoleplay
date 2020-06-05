@@ -1,0 +1,8 @@
+<Shield xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt">
+  <Coverage>0</Coverage>
+  <DefensiveModifier>0</DefensiveModifier>
+  <Description>For the Shieldless wonders of the world</Description>
+  <OffensiveModifier>0</OffensiveModifier>
+  <ShieldName>No Shield</ShieldName>
+  <ShieldWeight>0</ShieldWeight>
+</Shield>

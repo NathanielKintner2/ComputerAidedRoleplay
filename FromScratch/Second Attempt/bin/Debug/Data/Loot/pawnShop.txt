@@ -1,0 +1,4 @@
+@excellentLoot%@excellentLoot%@majorLoot
+@pawnShop%@excellentLoot
+@pawnShop%@excellentLoot
+@pawnShop%@excellentLoot

@@ -1,0 +1,153 @@
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\bin\Release\CAR.exe.config
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\bin\Release\CAR.exe.manifest
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\bin\Release\CAR.application
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\bin\Release\CAR.exe
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\bin\Release\CAR.pdb
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Release\Second_Attempt.AfterCrits.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Release\Second_Attempt.Aftermath.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Release\Second_Attempt.CharCreator.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Release\Second_Attempt.Combat.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Release\Second_Attempt.CombatDeclarations.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Release\Second_Attempt.CombatEntry.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Release\Second_Attempt.Crit.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Release\Second_Attempt.EffectAdder.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Release\Second_Attempt.Master_Attacker.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Release\Second_Attempt.MasterCrit.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Release\Second_Attempt.MasterDeclarations.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Release\Second_Attempt.Properties.Resources.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Release\Second_Attempt.ShieldAssigner.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Release\Second_Attempt.ShieldCreator.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Release\Second_Attempt.SingleAttack.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Release\Second_Attempt.StartupScreen.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Release\Second_Attempt.WeaponAssignment.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Release\Second_Attempt.WeaponCreator.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Release\Second Attempt.csproj.GenerateResource.Cache
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Release\CAR.exe.manifest
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Release\CAR.application
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Release\CAR.exe
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Release\CAR.pdb
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Release\Second_Attempt.AttackChart.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Release\Second Attempt.csprojResolveAssemblyReference.cache
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\bin\Release\CAR.exe.config
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Release\CAR.exe
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Release\CAR.pdb
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Release\Second Attempt.csprojResolveAssemblyReference.cache
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Release\Second_Attempt.AfterCrits.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Release\Second_Attempt.Aftermath.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Release\Second_Attempt.AttackChart.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Release\Second_Attempt.CharCreator.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Release\Second_Attempt.Combat.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Release\Second_Attempt.CombatDeclarations.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Release\Second_Attempt.CombatEntry.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Release\Second_Attempt.Crit.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Release\Second_Attempt.EffectAdder.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Release\Second_Attempt.Master_Attacker.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Release\Second_Attempt.MasterCrit.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Release\Second_Attempt.MasterDeclarations.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Release\Second_Attempt.Properties.Resources.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Release\Second_Attempt.ShieldAssigner.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Release\Second_Attempt.ShieldCreator.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Release\Second_Attempt.SingleAttack.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Release\Second_Attempt.StartupScreen.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Release\Second_Attempt.WeaponAssignment.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Release\Second_Attempt.WeaponCreator.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Release\Second Attempt.csproj.GenerateResource.Cache
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Release\CAR.exe.config
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Release\CAR.exe
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Release\CAR.pdb
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Release\CAR.exe
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Release\CAR.pdb
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Release\Second Attempt.csprojResolveAssemblyReference.cache
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Release\Second_Attempt.AfterCrits.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Release\Second_Attempt.ArmorAssigner.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Release\Second_Attempt.ArmorCreator.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Release\Second_Attempt.AttackChart.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Release\Second_Attempt.BattleTesting.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Release\Second_Attempt.CharCreator.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Release\Second_Attempt.Combat.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Release\Second_Attempt.CombatDeclarations.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Release\Second_Attempt.CombatEntry.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Release\Second_Attempt.EffectAdder.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Release\Second_Attempt.Master_Attacker.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Release\Second_Attempt.MasterCrit.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Release\Second_Attempt.MasterDeclarations.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Release\Second_Attempt.Properties.Resources.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Release\Second_Attempt.ShieldAssigner.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Release\Second_Attempt.ShieldCreator.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Release\Second_Attempt.SingleAttack.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Release\Second_Attempt.StartupScreen.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Release\Second_Attempt.WeaponAssignment.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Release\Second_Attempt.WeaponCreator.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Release\Second Attempt.csproj.GenerateResource.Cache
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Release\CAR.exe.config
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\CAR.exe
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\CAR.pdb
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Release\HTMLPages\CombatTerminal.html
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Release\HTMLPages\InPipe.html
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Release\HTMLPages\InventoryTerminal.html
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Release\ZZZStylePart.html
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Release\ZZZStyleTest.html
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Release\CAR.exe
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Release\CAR.pdb
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Release\HtmlAgilityPack.dll
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Release\log4net.dll
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Release\Newtonsoft.Json.dll
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Release\Zlib.Portable.dll
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Release\HtmlAgilityPack.pdb
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Release\HtmlAgilityPack.xml
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Release\log4net.xml
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Release\Microsoft.Threading.Tasks.xml
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Release\Newtonsoft.Json.xml
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Release\System.Net.Http.Extensions.xml
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Release\System.Net.Http.Primitives.xml
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Release\Zlib.Portable.xml
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second Attempt.csproj.CAR.exe.config
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.AfterCrits.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.ArmorCreator.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.AttackChart.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.BattleTesting.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.CharCreator.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.Combat.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.CombatDeclarations.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.CombatEntry.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.DataExport.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.EffectAdder.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.EnchantmentCreator.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.EnchantmentLogic.MathLogicForm.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.EnchantmentLogic.DoubleValueForm.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.EnchantmentLogic.EffectTypeCheckForm.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.EnchantmentLogic.GetVariableForm.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.EnchantmentLogic.Calculables.ParamReaderForm.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.EnchantmentLogic.CreateEffectForm.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.EnchantmentLogic.IfElseLogicForm.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.EnchantmentLogic.MakeAttackForm.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.EnchantmentLogic.PrintMessageForm.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.EnchantmentLogic.ReturnValueForm.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.EnchantmentLogic.SetVariableForm.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.EnchantmentLogic.SourceCheckForm.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.EquipStatusChanger.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.ItemAssigner.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.ItemCreator.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.LoadingBlop.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.LootTable.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.Master_Attacker.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.MasterCrit.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.MasterDeclarations.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.Properties.Resources.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.ShieldCreator.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.SingleAttack.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.SpellAssigner.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.SpellCasting.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.SpellCreator.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.SpellResults.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.StartupScreen.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second_Attempt.WeaponCreator.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Release\Second Attempt.csproj.GenerateResource.Cache

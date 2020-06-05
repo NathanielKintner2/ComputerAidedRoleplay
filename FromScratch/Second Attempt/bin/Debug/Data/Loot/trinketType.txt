@@ -1,0 +1,8 @@
+charm
+talisman
+amulet
+ring
+bracelet
+necklace
+jewel
+circlet

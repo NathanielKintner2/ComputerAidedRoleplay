@@ -1,0 +1,9 @@
+Human
+Elf
+Dwarf
+Undead
+Demon
+Natural
+Mechanical
+Elemental
+Spirit

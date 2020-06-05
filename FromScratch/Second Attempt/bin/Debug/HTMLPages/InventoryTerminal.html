@@ -1,0 +1,147 @@
+﻿<!DOCTYPE html>
+<script>
+    if ( window.history.replaceState ) {
+        window.history.replaceState( null, null, window.location.href );
+    }
+</script>
+<html>
+<head>
+    <style>
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        td, th {
+            border: 1px solid #dddddd;
+            text-align: center;
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #cccccc;
+        }
+
+        tr:nth-child(odd) {
+            background-color: #ffffff;
+        }
+
+        div.dumb {
+            letter-spacing: 12px;
+            font-size: 50px;
+            position: relative;
+            left: 25px;
+            top: 25px;
+        }
+
+        div.holder {
+            width: 1000px;
+            background-color: #0505a0;
+            letter-spacing: 2px;
+            font-size: 25px;
+            margin: 2px;
+            border: 2px solid #1010d0;
+            display: inline-block;
+            padding: 2px;
+            vertical-align: top;
+        }
+
+        div.titlename {
+            letter-spacing: 2px;
+            background-color: #f0f0ff;
+            font-size: 15px;
+            margin: 2px;
+            border: 2px solid #1010d0;
+            display: inline-block;
+            padding: 2px;
+            vertical-align: top;
+        }
+
+        div.topRow {
+            height: 265px;
+            letter-spacing: 2px;
+            background-color: #f0f0ff;
+            font-size: 15px;
+            margin: 2px;
+            border: 2px solid #1010d0;
+            display: inline-block;
+            padding: 2px;
+            vertical-align: top;
+        }
+
+        div.singleRow {
+            height: 40px;
+            width: 900px;
+            letter-spacing: 2px;
+            background-color: #f0f0ff;
+            line-height: 40px;
+            font-size: 16px;
+            margin: 3px;
+            border: 2px solid #1010d0;
+            display: block;
+            padding: 2px;
+            white-space: nowrap;
+        }
+
+        div.scrollbox {
+            width: 250px;
+            height: 265px;
+            background-color: #f0f0ff;
+            letter-spacing: 2px;
+            font-size: 15px;
+            margin: 2px;
+            border: 2px solid #1010d0;
+            display: inline-block;
+            padding: 2px;
+            vertical-align: top;
+            overflow: auto;
+        }
+
+        div.stats {
+            letter-spacing: 2px;
+            font-size: 15px;
+            margin: 2px;
+            border: 2px solid #1010d0;
+            display: block;
+            padding: 2px;
+            vertical-align: bottom;
+            padding-bottom: 3px;
+        }
+
+        div.leftbox {
+            letter-spacing: 2px;
+            font-size: 16px;
+            width: 500px;
+            height: 28px;
+            position: relative;
+            display: inline-block;
+            margin: 2px;
+            border: 2px solid #1010d0;
+            padding: 2px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="holder" style="padding-left: 20px;">
+        <form method="post" autocomplete="off" id="inventoryform">
+            <div class="titlename" id="equipped">
+                <p>EQUIPPED ITEMS</p>
+            </div>
+            <div class="titlename" id="unequipped">
+                <p>BAG</p>
+            </div>
+            <div class="titlename" id="ground">
+                <p>THE GROUND</p>
+            </div>
+            <p>Item Amount</p>
+            <input type=text name="itemamount" id="itemamount" value=" ">            
+            
+        </form>
+        <form id="menuform" action="">
+            <input type="submit" value="Back To Combat" />
+        </form>
+    </div>
+</body>
+</html>

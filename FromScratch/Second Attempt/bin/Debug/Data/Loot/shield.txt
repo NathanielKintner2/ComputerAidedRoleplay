@@ -1,0 +1,6 @@
+@color @shieldTypes
+@descriptor @shieldTypes
+@material @shieldTypes
+@descriptor @color @shieldTypes
+@descriptor @material @shieldTypes
+@color @material @shieldTypes

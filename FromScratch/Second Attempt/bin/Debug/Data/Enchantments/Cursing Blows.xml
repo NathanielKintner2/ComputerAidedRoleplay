@@ -1,0 +1,142 @@
+<IfElseLogic xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt.EnchantmentLogic">
+  <conditions xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:anyType i:type="SourceCheck">
+      <SourceType>PostAttack</SourceType>
+      <logicType>SourceCheck</logicType>
+      <name i:nil="true" />
+    </d2p1:anyType>
+    <d2p1:anyType i:type="ParamReader">
+      <Branch1>AttackStats</Branch1>
+      <Branch2>AttackResult</Branch2>
+      <Branch3>Hit</Branch3>
+      <Branch4 />
+      <logicType>ParamReader</logicType>
+      <name i:nil="true" />
+    </d2p1:anyType>
+  </conditions>
+  <elseResults xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <ifResults xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:anyType i:type="SetVariable">
+      <logicType>SetVariable</logicType>
+      <name i:nil="true" />
+      <setTo i:type="ParamReader">
+        <Branch1>AttackStats</Branch1>
+        <Branch2>TriggerValue</Branch2>
+        <Branch3 />
+        <Branch4 />
+        <logicType>ParamReader</logicType>
+        <name i:nil="true" />
+      </setTo>
+      <varName>InternalVar</varName>
+    </d2p1:anyType>
+    <d2p1:anyType i:type="CreateEffect">
+      <damageType />
+      <deterioration i:type="MathLogic">
+        <left i:type="GetVariable">
+          <logicType>GetVariable</logicType>
+          <name i:nil="true" />
+          <varName>DeterDefault</varName>
+        </left>
+        <logicType>MathLogic</logicType>
+        <name i:nil="true" />
+        <operation>Add</operation>
+        <right i:type="MathLogic">
+          <left i:type="GetVariable">
+            <logicType>GetVariable</logicType>
+            <name i:nil="true" />
+            <varName>InternalVar</varName>
+          </left>
+          <logicType>MathLogic</logicType>
+          <name i:nil="true" />
+          <operation>Multiply</operation>
+          <right i:type="GetVariable">
+            <logicType>GetVariable</logicType>
+            <name i:nil="true" />
+            <varName>DeterScale</varName>
+          </right>
+        </right>
+      </deterioration>
+      <effectTag>NoTag</effectTag>
+      <effectType>RewardEffect</effectType>
+      <length i:type="MathLogic">
+        <left i:type="GetVariable">
+          <logicType>GetVariable</logicType>
+          <name i:nil="true" />
+          <varName>LengthDefault</varName>
+        </left>
+        <logicType>MathLogic</logicType>
+        <name i:nil="true" />
+        <operation>Add</operation>
+        <right i:type="MathLogic">
+          <left i:type="GetVariable">
+            <logicType>GetVariable</logicType>
+            <name i:nil="true" />
+            <varName>InternalVar</varName>
+          </left>
+          <logicType>MathLogic</logicType>
+          <name i:nil="true" />
+          <operation>Multiply</operation>
+          <right i:type="GetVariable">
+            <logicType>GetVariable</logicType>
+            <name i:nil="true" />
+            <varName>LengthScale</varName>
+          </right>
+        </right>
+      </length>
+      <logicType>CreateEffect</logicType>
+      <name i:nil="true" />
+      <potency i:type="MathLogic">
+        <left i:type="GetVariable">
+          <logicType>GetVariable</logicType>
+          <name i:nil="true" />
+          <varName>InternalVar</varName>
+        </left>
+        <logicType>MathLogic</logicType>
+        <name i:nil="true" />
+        <operation>Multiply</operation>
+        <right i:type="GetVariable">
+          <logicType>GetVariable</logicType>
+          <name i:nil="true" />
+          <varName>PowerScale</varName>
+        </right>
+      </potency>
+      <target>Defender</target>
+    </d2p1:anyType>
+  </ifResults>
+  <logicType>IfElseLogic</logicType>
+  <name>Cursing Blows</name>
+  <variables xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:ArrayOfanyType>
+      <d2p1:anyType xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:string">RewardEffect</d2p1:anyType>
+      <d2p1:anyType xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:double">0</d2p1:anyType>
+    </d2p1:ArrayOfanyType>
+    <d2p1:ArrayOfanyType>
+      <d2p1:anyType xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:string">TriggerValue</d2p1:anyType>
+      <d2p1:anyType xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:double">0</d2p1:anyType>
+    </d2p1:ArrayOfanyType>
+    <d2p1:ArrayOfanyType>
+      <d2p1:anyType xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:string">LengthDefault</d2p1:anyType>
+      <d2p1:anyType xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:double">0</d2p1:anyType>
+    </d2p1:ArrayOfanyType>
+    <d2p1:ArrayOfanyType>
+      <d2p1:anyType xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:string">LengthScale</d2p1:anyType>
+      <d2p1:anyType xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:double">0</d2p1:anyType>
+    </d2p1:ArrayOfanyType>
+    <d2p1:ArrayOfanyType>
+      <d2p1:anyType xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:string">DeterDefault</d2p1:anyType>
+      <d2p1:anyType xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:double">0</d2p1:anyType>
+    </d2p1:ArrayOfanyType>
+    <d2p1:ArrayOfanyType>
+      <d2p1:anyType xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:string">DeterScale</d2p1:anyType>
+      <d2p1:anyType xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:double">0</d2p1:anyType>
+    </d2p1:ArrayOfanyType>
+    <d2p1:ArrayOfanyType>
+      <d2p1:anyType xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:string">PowerScale</d2p1:anyType>
+      <d2p1:anyType xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:double">0</d2p1:anyType>
+    </d2p1:ArrayOfanyType>
+    <d2p1:ArrayOfanyType>
+      <d2p1:anyType xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:string">InternalVar</d2p1:anyType>
+      <d2p1:anyType xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:double">0</d2p1:anyType>
+    </d2p1:ArrayOfanyType>
+  </variables>
+</IfElseLogic>

@@ -1,0 +1,13 @@
+@moderateLoot
+@moderateLoot
+@minorLoot%@minorLoot
+@minorLoot%@minorLoot
+minor @simplePotion
+minor @simplePotion
+low quality @simpleWeapon
+low quality @armorPiece
+@d6plus3 bits
+@utilityItem
+@utilityItem
+@utilityItem
+@trinket worth @nonzeroNumber@number bits

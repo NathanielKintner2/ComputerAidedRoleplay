@@ -1,0 +1,11 @@
+@epicLoot
+@excellentLoot%@majorLoot
+@moderateLoot%@majorLoot
+@magicArmor
+@magicArmor
+@complexWeapon
+@complexShield
+@complexTrinket
+@complexTrinket
+1@number crowns
+Tier @d4plus2 @magicItem of Tier @d4plus2 @spell

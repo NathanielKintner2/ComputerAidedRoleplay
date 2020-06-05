@@ -1,0 +1,31 @@
+<Weapon xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt">
+  <Count>0</Count>
+  <Description>A longbow, just made by a really bougie person</Description>
+  <Enchantments xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <IsEquipped>false</IsEquipped>
+  <IsIdentified>false</IsIdentified>
+  <ItemEffects />
+  <ItemName>Bougie Longbow</ItemName>
+  <Type>Gloves</Type>
+  <UnidentifiedDescription i:nil="true" />
+  <Use>Equipable</Use>
+  <Weight>2</Weight>
+  <BlockingDifficulty>25</BlockingDifficulty>
+  <DamageTypes xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d2p1:Key>Pierce</d2p1:Key>
+      <d2p1:Value>1</d2p1:Value>
+    </d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+  </DamageTypes>
+  <DefensiveBonus>-3</DefensiveBonus>
+  <ExcessStrengthMultiplier>0.1</ExcessStrengthMultiplier>
+  <OffensiveBonus>5</OffensiveBonus>
+  <ParryBreak>1</ParryBreak>
+  <ParryStrength>0.25</ParryStrength>
+  <StaminaRequirement>5</StaminaRequirement>
+  <WeaponTypes>
+    <Utilities.WeaponType>Ranged</Utilities.WeaponType>
+    <Utilities.WeaponType>Physical</Utilities.WeaponType>
+    <Utilities.WeaponType>Bow</Utilities.WeaponType>
+  </WeaponTypes>
+</Weapon>

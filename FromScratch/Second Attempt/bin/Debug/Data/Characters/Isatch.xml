@@ -1,0 +1,229 @@
+<Character xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt">
+  <CharTypeTag />
+  <CombatStuff>
+    <CombatDB>0</CombatDB>
+    <CombatOB>0</CombatOB>
+  </CombatStuff>
+  <CreatureTypes>
+    <Utilities.CreatureType>Human</Utilities.CreatureType>
+    <Utilities.CreatureType>Natural</Utilities.CreatureType>
+  </CreatureTypes>
+  <Description />
+  <Effects />
+  <Enchantments xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <GoogleNinjaNotesInbound i:nil="true" />
+  <GoogleNinjaNotesOutbound />
+  <GoogleNinjaNotesRebound i:nil="true" />
+  <HitPoints>0</HitPoints>
+  <Inventory>
+    <Item i:type="Armor">
+      <Count>1</Count>
+      <Description i:nil="true" />
+      <Enchantments xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <IsEquipped>true</IsEquipped>
+      <IsIdentified>true</IsIdentified>
+      <ItemEffects />
+      <ItemName>Chainmail Boots</ItemName>
+      <Type>Gloves</Type>
+      <UnidentifiedDescription />
+      <Use>Equipable</Use>
+      <Weight>0</Weight>
+      <CoveredAreas />
+      <DamageReductionTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <DamageResistanceTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <DefensiveBonus>0</DefensiveBonus>
+      <OffensiveBonus>0</OffensiveBonus>
+      <StaminaRequirement>0</StaminaRequirement>
+    </Item>
+    <Item i:type="Armor">
+      <Count>1</Count>
+      <Description i:nil="true" />
+      <Enchantments xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <IsEquipped>true</IsEquipped>
+      <IsIdentified>true</IsIdentified>
+      <ItemEffects />
+      <ItemName>Chainmail Coat</ItemName>
+      <Type>Gloves</Type>
+      <UnidentifiedDescription />
+      <Use>Equipable</Use>
+      <Weight>0</Weight>
+      <CoveredAreas />
+      <DamageReductionTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <DamageResistanceTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <DefensiveBonus>0</DefensiveBonus>
+      <OffensiveBonus>0</OffensiveBonus>
+      <StaminaRequirement>0</StaminaRequirement>
+    </Item>
+    <Item i:type="Armor">
+      <Count>1</Count>
+      <Description i:nil="true" />
+      <Enchantments xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <IsEquipped>true</IsEquipped>
+      <IsIdentified>true</IsIdentified>
+      <ItemEffects />
+      <ItemName>Chainmail Gloves</ItemName>
+      <Type>Gloves</Type>
+      <UnidentifiedDescription />
+      <Use>Equipable</Use>
+      <Weight>0</Weight>
+      <CoveredAreas />
+      <DamageReductionTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <DamageResistanceTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <DefensiveBonus>0</DefensiveBonus>
+      <OffensiveBonus>0</OffensiveBonus>
+      <StaminaRequirement>0</StaminaRequirement>
+    </Item>
+    <Item i:type="Armor">
+      <Count>1</Count>
+      <Description i:nil="true" />
+      <Enchantments xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <IsEquipped>true</IsEquipped>
+      <IsIdentified>true</IsIdentified>
+      <ItemEffects />
+      <ItemName>Chainmail Helm</ItemName>
+      <Type>Gloves</Type>
+      <UnidentifiedDescription />
+      <Use>Equipable</Use>
+      <Weight>0</Weight>
+      <CoveredAreas />
+      <DamageReductionTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <DamageResistanceTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <DefensiveBonus>0</DefensiveBonus>
+      <OffensiveBonus>0</OffensiveBonus>
+      <StaminaRequirement>0</StaminaRequirement>
+    </Item>
+    <Item i:type="Armor">
+      <Count>1</Count>
+      <Description i:nil="true" />
+      <Enchantments xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <IsEquipped>true</IsEquipped>
+      <IsIdentified>true</IsIdentified>
+      <ItemEffects />
+      <ItemName>Chainmail Leggings</ItemName>
+      <Type>Gloves</Type>
+      <UnidentifiedDescription />
+      <Use>Equipable</Use>
+      <Weight>0</Weight>
+      <CoveredAreas />
+      <DamageReductionTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <DamageResistanceTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <DefensiveBonus>0</DefensiveBonus>
+      <OffensiveBonus>0</OffensiveBonus>
+      <StaminaRequirement>0</StaminaRequirement>
+    </Item>
+    <Item i:type="Weapon">
+      <Count>1</Count>
+      <Description i:nil="true" />
+      <Enchantments xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <IsEquipped>true</IsEquipped>
+      <IsIdentified>true</IsIdentified>
+      <ItemEffects />
+      <ItemName>Earthball</ItemName>
+      <Type>Gloves</Type>
+      <UnidentifiedDescription />
+      <Use>Equipable</Use>
+      <Weight>0</Weight>
+      <BlockingDifficulty>0</BlockingDifficulty>
+      <DamageTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <DefensiveBonus>0</DefensiveBonus>
+      <ExcessStrengthMultiplier>0</ExcessStrengthMultiplier>
+      <OffensiveBonus>0</OffensiveBonus>
+      <ParryBreak>0</ParryBreak>
+      <ParryStrength>0</ParryStrength>
+      <StaminaRequirement>0</StaminaRequirement>
+      <WeaponTypes />
+    </Item>
+    <Item>
+      <Count>1</Count>
+      <Description i:nil="true" />
+      <Enchantments xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <IsEquipped>true</IsEquipped>
+      <IsIdentified>false</IsIdentified>
+      <ItemEffects />
+      <ItemName>Bloodkeeper Amulet</ItemName>
+      <Type>Gloves</Type>
+      <UnidentifiedDescription>An amulet in the shape of a dagger, inlaid with rubies.</UnidentifiedDescription>
+      <Use>Equipable</Use>
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <Count>21</Count>
+      <Description i:nil="true" />
+      <Enchantments xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <IsEquipped>false</IsEquipped>
+      <IsIdentified>true</IsIdentified>
+      <ItemEffects />
+      <ItemName>Electrum Crown</ItemName>
+      <Type>Gloves</Type>
+      <UnidentifiedDescription />
+      <Use>Equipable</Use>
+      <Weight>0</Weight>
+    </Item>
+    <Item i:type="Weapon">
+      <Count>1</Count>
+      <Description i:nil="true" />
+      <Enchantments xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <IsEquipped>true</IsEquipped>
+      <IsIdentified>true</IsIdentified>
+      <ItemEffects />
+      <ItemName>Pentarune Sword</ItemName>
+      <Type>Gloves</Type>
+      <UnidentifiedDescription />
+      <Use>Equipable</Use>
+      <Weight>0</Weight>
+      <BlockingDifficulty>0</BlockingDifficulty>
+      <DamageTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <DefensiveBonus>0</DefensiveBonus>
+      <ExcessStrengthMultiplier>0</ExcessStrengthMultiplier>
+      <OffensiveBonus>0</OffensiveBonus>
+      <ParryBreak>0</ParryBreak>
+      <ParryStrength>0</ParryStrength>
+      <StaminaRequirement>0</StaminaRequirement>
+      <WeaponTypes />
+    </Item>
+    <Item>
+      <Count>14</Count>
+      <Description i:nil="true" />
+      <Enchantments xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <IsEquipped>false</IsEquipped>
+      <IsIdentified>true</IsIdentified>
+      <ItemEffects />
+      <ItemName>Ball Bearing</ItemName>
+      <Type>Gloves</Type>
+      <UnidentifiedDescription />
+      <Use>Equipable</Use>
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <Count>1</Count>
+      <Description i:nil="true" />
+      <Enchantments xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <IsEquipped>false</IsEquipped>
+      <IsIdentified>true</IsIdentified>
+      <ItemEffects />
+      <ItemName>Sterling Rubel</ItemName>
+      <Type>Gloves</Type>
+      <UnidentifiedDescription />
+      <Use>Equipable</Use>
+      <Weight>0</Weight>
+    </Item>
+  </Inventory>
+  <Name>Isatch</Name>
+  <Skills>
+    <ArmorSkill>7</ArmorSkill>
+    <EnduranceSkill>3</EnduranceSkill>
+    <HPSkill>3</HPSkill>
+    <PerceptionSkill>1</PerceptionSkill>
+    <ReflexSkill>5</ReflexSkill>
+  </Skills>
+  <Spells />
+  <Stamina>525</Stamina>
+  <Statistics>
+    <Charisma>11</Charisma>
+    <Constitution>16</Constitution>
+    <Dexterity>12</Dexterity>
+    <Intelligence>8</Intelligence>
+    <Strength>17</Strength>
+    <Wisdom>8</Wisdom>
+  </Statistics>
+</Character>

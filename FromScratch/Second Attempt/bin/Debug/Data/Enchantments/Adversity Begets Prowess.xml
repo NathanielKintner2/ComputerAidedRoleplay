@@ -1,0 +1,189 @@
+<IfElseLogic xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt.EnchantmentLogic">
+  <conditions xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:anyType i:type="SourceCheck">
+      <SourceType>EffectCheck</SourceType>
+      <logicType>SourceCheck</logicType>
+      <name i:nil="true" />
+    </d2p1:anyType>
+    <d2p1:anyType i:type="EffectTypeCheck">
+      <damType i:nil="true" />
+      <effTag>NoTag</effTag>
+      <effType>ResultEffectType</effType>
+      <logicType>EffectTypeCheck</logicType>
+      <name i:nil="true" />
+    </d2p1:anyType>
+  </conditions>
+  <elseResults xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <ifResults xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:anyType i:type="IfElseLogic">
+      <conditions>
+        <d2p1:anyType i:type="ParamReader">
+          <Branch1>Character</Branch1>
+          <Branch2>Attacker</Branch2>
+          <Branch3>IsParentChar</Branch3>
+          <Branch4 />
+          <logicType>ParamReader</logicType>
+          <name i:nil="true" />
+        </d2p1:anyType>
+      </conditions>
+      <elseResults />
+      <ifResults>
+        <d2p1:anyType i:type="SetVariable">
+          <logicType>SetVariable</logicType>
+          <name i:nil="true" />
+          <setTo i:type="MathLogic">
+            <left i:type="ParamReader">
+              <Branch1>Character</Branch1>
+              <Branch2>Defender</Branch2>
+              <Branch3>ComparedValue</Branch3>
+              <Branch4 />
+              <logicType>ParamReader</logicType>
+              <name i:nil="true" />
+            </left>
+            <logicType>MathLogic</logicType>
+            <name i:nil="true" />
+            <operation>Subtract</operation>
+            <right i:type="ParamReader">
+              <Branch1>Character</Branch1>
+              <Branch2>Parent</Branch2>
+              <Branch3>ComparedValue</Branch3>
+              <Branch4 />
+              <logicType>ParamReader</logicType>
+              <name i:nil="true" />
+            </right>
+          </setTo>
+          <varName>InternalVar</varName>
+        </d2p1:anyType>
+      </ifResults>
+      <logicType>IfElseLogic</logicType>
+      <name>IfWeAreAttacking</name>
+      <variables />
+    </d2p1:anyType>
+    <d2p1:anyType i:type="IfElseLogic">
+      <conditions>
+        <d2p1:anyType i:type="ParamReader">
+          <Branch1>Character</Branch1>
+          <Branch2>Defender</Branch2>
+          <Branch3>IsParentChar</Branch3>
+          <Branch4 />
+          <logicType>ParamReader</logicType>
+          <name i:nil="true" />
+        </d2p1:anyType>
+      </conditions>
+      <elseResults />
+      <ifResults>
+        <d2p1:anyType i:type="SetVariable">
+          <logicType>SetVariable</logicType>
+          <name i:nil="true" />
+          <setTo i:type="MathLogic">
+            <left i:type="ParamReader">
+              <Branch1>Character</Branch1>
+              <Branch2>Attacker</Branch2>
+              <Branch3>ComparedValue</Branch3>
+              <Branch4 />
+              <logicType>ParamReader</logicType>
+              <name i:nil="true" />
+            </left>
+            <logicType>MathLogic</logicType>
+            <name i:nil="true" />
+            <operation>Subtract</operation>
+            <right i:type="ParamReader">
+              <Branch1>Character</Branch1>
+              <Branch2>Parent</Branch2>
+              <Branch3>ComparedValue</Branch3>
+              <Branch4 />
+              <logicType>ParamReader</logicType>
+              <name i:nil="true" />
+            </right>
+          </setTo>
+          <varName>InternalVar</varName>
+        </d2p1:anyType>
+      </ifResults>
+      <logicType>IfElseLogic</logicType>
+      <name>IfWeAreDefending</name>
+      <variables />
+    </d2p1:anyType>
+    <d2p1:anyType i:type="IfElseLogic">
+      <conditions>
+        <d2p1:anyType i:type="MathLogic">
+          <left i:type="GetVariable">
+            <logicType>GetVariable</logicType>
+            <name i:nil="true" />
+            <varName>InternalVar</varName>
+          </left>
+          <logicType>MathLogic</logicType>
+          <name i:nil="true" />
+          <operation>GreaterThan</operation>
+          <right i:type="DoubleValue">
+            <logicType>DoubleValue</logicType>
+            <name>0</name>
+            <val>0</val>
+          </right>
+        </d2p1:anyType>
+      </conditions>
+      <elseResults />
+      <ifResults>
+        <d2p1:anyType i:type="ReturnValue">
+          <logicType>ReturnValue</logicType>
+          <name i:nil="true" />
+          <valueToReturn i:type="MathLogic">
+            <left i:type="GetVariable">
+              <logicType>GetVariable</logicType>
+              <name i:nil="true" />
+              <varName>EffectBaseValue</varName>
+            </left>
+            <logicType>MathLogic</logicType>
+            <name i:nil="true" />
+            <operation>Add</operation>
+            <right i:type="MathLogic">
+              <left i:type="GetVariable">
+                <logicType>GetVariable</logicType>
+                <name i:nil="true" />
+                <varName>InternalVar</varName>
+              </left>
+              <logicType>MathLogic</logicType>
+              <name i:nil="true" />
+              <operation>Multiply</operation>
+              <right i:type="GetVariable">
+                <logicType>GetVariable</logicType>
+                <name i:nil="true" />
+                <varName>Scaling</varName>
+              </right>
+            </right>
+          </valueToReturn>
+        </d2p1:anyType>
+      </ifResults>
+      <logicType>IfElseLogic</logicType>
+      <name>Return Value</name>
+      <variables />
+    </d2p1:anyType>
+  </ifResults>
+  <logicType>IfElseLogic</logicType>
+  <name>Adversity Begets Prowess</name>
+  <variables xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:ArrayOfanyType>
+      <d2p1:anyType xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:string">Threshold</d2p1:anyType>
+      <d2p1:anyType xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:double">0</d2p1:anyType>
+    </d2p1:ArrayOfanyType>
+    <d2p1:ArrayOfanyType>
+      <d2p1:anyType xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:string">Scaling</d2p1:anyType>
+      <d2p1:anyType xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:double">0</d2p1:anyType>
+    </d2p1:ArrayOfanyType>
+    <d2p1:ArrayOfanyType>
+      <d2p1:anyType xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:string">EffectBaseValue</d2p1:anyType>
+      <d2p1:anyType xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:double">0</d2p1:anyType>
+    </d2p1:ArrayOfanyType>
+    <d2p1:ArrayOfanyType>
+      <d2p1:anyType xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:string">ComparedValue</d2p1:anyType>
+      <d2p1:anyType xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:double">0</d2p1:anyType>
+    </d2p1:ArrayOfanyType>
+    <d2p1:ArrayOfanyType>
+      <d2p1:anyType xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:string">ResultEffectType</d2p1:anyType>
+      <d2p1:anyType xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:double">0</d2p1:anyType>
+    </d2p1:ArrayOfanyType>
+    <d2p1:ArrayOfanyType>
+      <d2p1:anyType xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:string">InternalVar</d2p1:anyType>
+      <d2p1:anyType xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:double">0</d2p1:anyType>
+    </d2p1:ArrayOfanyType>
+  </variables>
+</IfElseLogic>

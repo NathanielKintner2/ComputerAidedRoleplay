@@ -1,0 +1,9 @@
+tier @d6 @weaponEnchantment_ing @weapon of tier @d6 @weaponEnchantment
+tier @d6 @weaponEnchantment_ing @weapon of tier @d6 @weaponEnchantment
+tier @d6 @weaponEnchantment_ing @weapon of tier @d6 @weaponEnchantment
+tier @d6 @weaponEnchantment_ing @weapon of tier @d6 @weaponEnchantment
+tier @d6 @weaponEnchantment_ing @weapon of tier @d6 @generalEnchantment
+tier @d6 @weaponEnchantment_ing @weapon of tier @d6 @generalEnchantment
+tier @d6 @generalEnchantment_ing @weapon of tier @d6 @weaponEnchantment
+tier @d6 @generalEnchantment_ing @weapon of tier @d6 @weaponEnchantment
+tier @d6 @generalEnchantment_ing @weapon of tier @d6 @generalEnchantment

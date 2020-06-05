@@ -1,0 +1,86 @@
+<Spell xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt">
+  <Description />
+  <GoogleSheetID>1eaU1Q7uBzcgQiLupagcgxmH6Om5DqpRDVI-Kh4ZPEGM</GoogleSheetID>
+  <SpellCost>100</SpellCost>
+  <SpellEffects xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:KeyValueOfEffectTupleOfdoubledoubledoubleYn0NQ6XL>
+      <d2p1:Key>
+        <damageType i:nil="true" />
+        <deterioration>0</deterioration>
+        <effectLength>1</effectLength>
+        <effectStrength>5</effectStrength>
+        <effectTag>NoTag</effectTag>
+        <effectTarget i:nil="true" />
+        <effectTypes>
+          <EffectHolder.EffectType>Regeneration</EffectHolder.EffectType>
+        </effectTypes>
+        <isPermanent>false</isPermanent>
+      </d2p1:Key>
+      <d2p1:Value xmlns:d4p1="http://schemas.datacontract.org/2004/07/System">
+        <d4p1:m_Item1>0.95</d4p1:m_Item1>
+        <d4p1:m_Item2>0</d4p1:m_Item2>
+        <d4p1:m_Item3>0</d4p1:m_Item3>
+      </d2p1:Value>
+    </d2p1:KeyValueOfEffectTupleOfdoubledoubledoubleYn0NQ6XL>
+    <d2p1:KeyValueOfEffectTupleOfdoubledoubledoubleYn0NQ6XL>
+      <d2p1:Key>
+        <damageType i:nil="true" />
+        <deterioration>0</deterioration>
+        <effectLength>1</effectLength>
+        <effectStrength>5</effectStrength>
+        <effectTag>NoTag</effectTag>
+        <effectTarget i:nil="true" />
+        <effectTypes>
+          <EffectHolder.EffectType>Health</EffectHolder.EffectType>
+        </effectTypes>
+        <isPermanent>false</isPermanent>
+      </d2p1:Key>
+      <d2p1:Value xmlns:d4p1="http://schemas.datacontract.org/2004/07/System">
+        <d4p1:m_Item1>0.95</d4p1:m_Item1>
+        <d4p1:m_Item2>0</d4p1:m_Item2>
+        <d4p1:m_Item3>0</d4p1:m_Item3>
+      </d2p1:Value>
+    </d2p1:KeyValueOfEffectTupleOfdoubledoubledoubleYn0NQ6XL>
+    <d2p1:KeyValueOfEffectTupleOfdoubledoubledoubleYn0NQ6XL>
+      <d2p1:Key>
+        <damageType i:nil="true" />
+        <deterioration>1</deterioration>
+        <effectLength>-2</effectLength>
+        <effectStrength>2</effectStrength>
+        <effectTag>Bleed</effectTag>
+        <effectTarget i:nil="true" />
+        <effectTypes>
+          <EffectHolder.EffectType>Regeneration</EffectHolder.EffectType>
+        </effectTypes>
+        <isPermanent>false</isPermanent>
+      </d2p1:Key>
+      <d2p1:Value xmlns:d4p1="http://schemas.datacontract.org/2004/07/System">
+        <d4p1:m_Item1>0.35</d4p1:m_Item1>
+        <d4p1:m_Item2>0</d4p1:m_Item2>
+        <d4p1:m_Item3>0</d4p1:m_Item3>
+      </d2p1:Value>
+    </d2p1:KeyValueOfEffectTupleOfdoubledoubledoubleYn0NQ6XL>
+    <d2p1:KeyValueOfEffectTupleOfdoubledoubledoubleYn0NQ6XL>
+      <d2p1:Key>
+        <damageType i:nil="true" />
+        <deterioration>0</deterioration>
+        <effectLength>-1</effectLength>
+        <effectStrength>0</effectStrength>
+        <effectTag>NerveImpairment</effectTag>
+        <effectTarget i:nil="true" />
+        <effectTypes>
+          <EffectHolder.EffectType>OB</EffectHolder.EffectType>
+          <EffectHolder.EffectType>DB</EffectHolder.EffectType>
+        </effectTypes>
+        <isPermanent>true</isPermanent>
+      </d2p1:Key>
+      <d2p1:Value xmlns:d4p1="http://schemas.datacontract.org/2004/07/System">
+        <d4p1:m_Item1>0.1</d4p1:m_Item1>
+        <d4p1:m_Item2>0</d4p1:m_Item2>
+        <d4p1:m_Item3>0</d4p1:m_Item3>
+      </d2p1:Value>
+    </d2p1:KeyValueOfEffectTupleOfdoubledoubledoubleYn0NQ6XL>
+  </SpellEffects>
+  <SpellName>Great Heal</SpellName>
+  <SpellWeapons xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+</Spell>

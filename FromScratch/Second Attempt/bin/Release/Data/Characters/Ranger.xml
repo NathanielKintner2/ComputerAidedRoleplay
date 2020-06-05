@@ -1,0 +1,183 @@
+<Character xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt">
+  <Armor>
+    <ArmorName>Light Leather</ArmorName>
+    <DamageReductionTypes xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+    <DamageResistanceTypes xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+        <d3p1:Key>Slash</d3p1:Key>
+        <d3p1:Value>0.2</d3p1:Value>
+      </d3p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d3p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+        <d3p1:Key>Pierce</d3p1:Key>
+        <d3p1:Value>0.2</d3p1:Value>
+      </d3p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d3p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+        <d3p1:Key>Crush</d3p1:Key>
+        <d3p1:Value>0.2</d3p1:Value>
+      </d3p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d3p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+        <d3p1:Key>Cold</d3p1:Key>
+        <d3p1:Value>0.2</d3p1:Value>
+      </d3p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+    </DamageResistanceTypes>
+    <DefensiveBonus>0</DefensiveBonus>
+    <Description />
+    <OffensiveBonus>0</OffensiveBonus>
+    <StaminaRequirement>5</StaminaRequirement>
+    <Weight>2</Weight>
+  </Armor>
+  <CombatStuff>
+    <CombatDB>0</CombatDB>
+    <CombatOB>0</CombatOB>
+    <CombatShield i:nil="true" />
+    <CombatWeapon i:nil="true" />
+    <CurrentlyInCombat>false</CurrentlyInCombat>
+  </CombatStuff>
+  <HitPoints>0</HitPoints>
+  <Name>Ranger</Name>
+  <Shields>
+    <Shield>
+      <Coverage>0</Coverage>
+      <DefensiveModifier>0</DefensiveModifier>
+      <Description>For the Shieldless wonders of the world</Description>
+      <OffensiveModifier>0</OffensiveModifier>
+      <ShieldName>No Shield</ShieldName>
+      <ShieldWeight>0</ShieldWeight>
+    </Shield>
+    <Shield>
+      <Coverage>0.25</Coverage>
+      <DefensiveModifier>1</DefensiveModifier>
+      <Description>Goes well with swash.</Description>
+      <OffensiveModifier>0</OffensiveModifier>
+      <ShieldName>Buckler</ShieldName>
+      <ShieldWeight>1</ShieldWeight>
+    </Shield>
+    <Shield>
+      <Coverage>0.5</Coverage>
+      <DefensiveModifier>3</DefensiveModifier>
+      <Description>It won't fly real well, tbh</Description>
+      <OffensiveModifier>-3</OffensiveModifier>
+      <ShieldName>Kite Shield</ShieldName>
+      <ShieldWeight>2</ShieldWeight>
+    </Shield>
+  </Shields>
+  <Skills>
+    <ArmorSkill>3</ArmorSkill>
+    <EnduranceSkill>2</EnduranceSkill>
+    <HPSkill>2</HPSkill>
+    <ReflexSkill>6</ReflexSkill>
+  </Skills>
+  <Stamina>0</Stamina>
+  <Statistics>
+    <Charisma>8</Charisma>
+    <Constitution>12</Constitution>
+    <Dexterity>16</Dexterity>
+    <Intelligence>8</Intelligence>
+    <Strength>12</Strength>
+    <Wisdom>8</Wisdom>
+  </Statistics>
+  <Weapons>
+    <Weapon>
+      <BlockingDifficulty>10</BlockingDifficulty>
+      <DamageTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+        <d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+          <d4p1:Key>Pierce</d4p1:Key>
+          <d4p1:Value>1.5</d4p1:Value>
+        </d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      </DamageTypes>
+      <DefensiveBonus>-3</DefensiveBonus>
+      <Description />
+      <ExcessStrengthMultiplier>0.1</ExcessStrengthMultiplier>
+      <OffensiveBonus>1</OffensiveBonus>
+      <ParryBreak>1</ParryBreak>
+      <ParryStrength>0.25</ParryStrength>
+      <StaminaRequirement>5</StaminaRequirement>
+      <WeaponName>Longbow</WeaponName>
+      <Weight>2</Weight>
+    </Weapon>
+    <Weapon>
+      <BlockingDifficulty>0</BlockingDifficulty>
+      <DamageTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+        <d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+          <d4p1:Key>Slash</d4p1:Key>
+          <d4p1:Value>0.75</d4p1:Value>
+        </d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+        <d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+          <d4p1:Key>Pierce</d4p1:Key>
+          <d4p1:Value>0.25</d4p1:Value>
+        </d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      </DamageTypes>
+      <DefensiveBonus>0</DefensiveBonus>
+      <Description>A reggular ol sword for the fighting of the badguys. Also called an arming sword.</Description>
+      <ExcessStrengthMultiplier>0.25</ExcessStrengthMultiplier>
+      <OffensiveBonus>0</OffensiveBonus>
+      <ParryBreak>1</ParryBreak>
+      <ParryStrength>1</ParryStrength>
+      <StaminaRequirement>4</StaminaRequirement>
+      <WeaponName>Short Sword</WeaponName>
+      <Weight>2</Weight>
+    </Weapon>
+    <Weapon>
+      <BlockingDifficulty>2</BlockingDifficulty>
+      <DamageTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+        <d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+          <d4p1:Key>Slash</d4p1:Key>
+          <d4p1:Value>1</d4p1:Value>
+        </d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+        <d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+          <d4p1:Key>Pierce</d4p1:Key>
+          <d4p1:Value>2</d4p1:Value>
+        </d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      </DamageTypes>
+      <DefensiveBonus>2</DefensiveBonus>
+      <Description />
+      <ExcessStrengthMultiplier>2</ExcessStrengthMultiplier>
+      <OffensiveBonus>2</OffensiveBonus>
+      <ParryBreak>2</ParryBreak>
+      <ParryStrength>2</ParryStrength>
+      <StaminaRequirement>2</StaminaRequirement>
+      <WeaponName>Bastard Sword</WeaponName>
+      <Weight>2</Weight>
+    </Weapon>
+    <Weapon>
+      <BlockingDifficulty>1</BlockingDifficulty>
+      <DamageTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+        <d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+          <d4p1:Key>Pierce</d4p1:Key>
+          <d4p1:Value>0.75</d4p1:Value>
+        </d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      </DamageTypes>
+      <DefensiveBonus>2</DefensiveBonus>
+      <Description>Use it in your left hand first.</Description>
+      <ExcessStrengthMultiplier>0.25</ExcessStrengthMultiplier>
+      <OffensiveBonus>2</OffensiveBonus>
+      <ParryBreak>0.5</ParryBreak>
+      <ParryStrength>0.5</ParryStrength>
+      <StaminaRequirement>3</StaminaRequirement>
+      <WeaponName>Rapier</WeaponName>
+      <Weight>1</Weight>
+    </Weapon>
+    <Weapon>
+      <BlockingDifficulty>2</BlockingDifficulty>
+      <DamageTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+        <d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+          <d4p1:Key>Slash</d4p1:Key>
+          <d4p1:Value>1.5</d4p1:Value>
+        </d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+        <d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+          <d4p1:Key>Crush</d4p1:Key>
+          <d4p1:Value>1.5</d4p1:Value>
+        </d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      </DamageTypes>
+      <DefensiveBonus>2</DefensiveBonus>
+      <Description />
+      <ExcessStrengthMultiplier>2</ExcessStrengthMultiplier>
+      <OffensiveBonus>2</OffensiveBonus>
+      <ParryBreak>3</ParryBreak>
+      <ParryStrength>3</ParryStrength>
+      <StaminaRequirement>2</StaminaRequirement>
+      <WeaponName>Greataxe</WeaponName>
+      <Weight>6</Weight>
+    </Weapon>
+  </Weapons>
+</Character>

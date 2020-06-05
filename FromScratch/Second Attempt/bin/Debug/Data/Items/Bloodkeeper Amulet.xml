@@ -1,0 +1,36 @@
+<Item xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt">
+  <Count>0</Count>
+  <Description>An amulet of great use to a fighter, that heals the wearer and reduces their blood loss.</Description>
+  <Enchantments xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <IsEquipped>false</IsEquipped>
+  <IsIdentified>false</IsIdentified>
+  <ItemEffects>
+    <Effect>
+      <damageType i:nil="true" />
+      <deterioration>0</deterioration>
+      <effectLength>-1</effectLength>
+      <effectStrength>2</effectStrength>
+      <effectTag>NoTag</effectTag>
+      <effectTypes>
+        <EffectHolder.EffectType>ResistBleed</EffectHolder.EffectType>
+      </effectTypes>
+      <isPermanent>false</isPermanent>
+    </Effect>
+    <Effect>
+      <damageType i:nil="true" />
+      <deterioration>0</deterioration>
+      <effectLength>-1</effectLength>
+      <effectStrength>3</effectStrength>
+      <effectTag>NoTag</effectTag>
+      <effectTypes>
+        <EffectHolder.EffectType>Regeneration</EffectHolder.EffectType>
+      </effectTypes>
+      <isPermanent>false</isPermanent>
+    </Effect>
+  </ItemEffects>
+  <ItemName>Bloodkeeper Amulet</ItemName>
+  <Type>Amulet</Type>
+  <UnidentifiedDescription i:nil="true" />
+  <Use>Equipable</Use>
+  <Weight>0.1</Weight>
+</Item>

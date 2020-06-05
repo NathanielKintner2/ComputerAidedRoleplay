@@ -1,0 +1,48 @@
+<Spell xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt">
+  <Description />
+  <GoogleSheetID i:nil="true" />
+  <SpellCost>0</SpellCost>
+  <SpellEffects xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <SpellName>Dragonfire Indirect</SpellName>
+  <SpellWeapons xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:KeyValueOfWeapondoublenlt4N763>
+      <d2p1:Key>
+        <Count>0</Count>
+        <Description>FIRE!!! An RPG classic. Its an AOE explosion, so it essentially never misses.</Description>
+        <Enchantments />
+        <IsEquipped>false</IsEquipped>
+        <IsIdentified>false</IsIdentified>
+        <ItemEffects />
+        <ItemName>Fireball</ItemName>
+        <Type>Gloves</Type>
+        <UnidentifiedDescription i:nil="true" />
+        <Use>Equipable</Use>
+        <Weight>0</Weight>
+        <BlockingDifficulty>30</BlockingDifficulty>
+        <DamageTypes>
+          <d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+            <d2p1:Key>Impact</d2p1:Key>
+            <d2p1:Value>0.2</d2p1:Value>
+          </d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+          <d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+            <d2p1:Key>Heat</d2p1:Key>
+            <d2p1:Value>0.3</d2p1:Value>
+          </d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+        </DamageTypes>
+        <DefensiveBonus>0</DefensiveBonus>
+        <ExcessStrengthMultiplier>0</ExcessStrengthMultiplier>
+        <OffensiveBonus>10</OffensiveBonus>
+        <ParryBreak>2</ParryBreak>
+        <ParryStrength>0</ParryStrength>
+        <StaminaRequirement>60</StaminaRequirement>
+        <WeaponTypes>
+          <Utilities.WeaponType>Ranged</Utilities.WeaponType>
+          <Utilities.WeaponType>Magical</Utilities.WeaponType>
+          <Utilities.WeaponType>Spell</Utilities.WeaponType>
+          <Utilities.WeaponType>ElementalSpell</Utilities.WeaponType>
+        </WeaponTypes>
+      </d2p1:Key>
+      <d2p1:Value>10</d2p1:Value>
+    </d2p1:KeyValueOfWeapondoublenlt4N763>
+  </SpellWeapons>
+</Spell>

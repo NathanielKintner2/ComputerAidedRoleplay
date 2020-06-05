@@ -1,0 +1,33 @@
+<Weapon xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt">
+  <Count>0</Count>
+  <Description>The literal presence of god</Description>
+  <Enchantments xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <IsEquipped>false</IsEquipped>
+  <IsIdentified>false</IsIdentified>
+  <ItemEffects />
+  <ItemName>Channeling Burn</ItemName>
+  <Type>Gloves</Type>
+  <UnidentifiedDescription i:nil="true" />
+  <Use>Equipable</Use>
+  <Weight>0</Weight>
+  <BlockingDifficulty>1000</BlockingDifficulty>
+  <DamageTypes xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d2p1:Key>Mental</d2p1:Key>
+      <d2p1:Value>0.01</d2p1:Value>
+    </d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+    <d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d2p1:Key>Impact</d2p1:Key>
+      <d2p1:Value>0.01</d2p1:Value>
+    </d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+  </DamageTypes>
+  <DefensiveBonus>0</DefensiveBonus>
+  <ExcessStrengthMultiplier>0</ExcessStrengthMultiplier>
+  <OffensiveBonus>200</OffensiveBonus>
+  <ParryBreak>1000</ParryBreak>
+  <ParryStrength>0</ParryStrength>
+  <StaminaRequirement>0</StaminaRequirement>
+  <WeaponTypes>
+    <Utilities.WeaponType>Uncategorized</Utilities.WeaponType>
+  </WeaponTypes>
+</Weapon>

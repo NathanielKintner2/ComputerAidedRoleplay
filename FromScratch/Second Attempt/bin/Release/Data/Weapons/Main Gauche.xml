@@ -1,0 +1,18 @@
+<Weapon xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt">
+  <BlockingDifficulty>0</BlockingDifficulty>
+  <DamageTypes xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d2p1:Key>Pierce</d2p1:Key>
+      <d2p1:Value>0.75</d2p1:Value>
+    </d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+  </DamageTypes>
+  <DefensiveBonus>3</DefensiveBonus>
+  <Description>Literally 'left hand'. Its a longish knife with a very wide, ornate hilt.</Description>
+  <ExcessStrengthMultiplier>0.25</ExcessStrengthMultiplier>
+  <OffensiveBonus>0</OffensiveBonus>
+  <ParryBreak>0.25</ParryBreak>
+  <ParryStrength>0.75</ParryStrength>
+  <StaminaRequirement>3</StaminaRequirement>
+  <WeaponName>Main Gauche</WeaponName>
+  <Weight>1</Weight>
+</Weapon>

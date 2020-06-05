@@ -1,0 +1,12 @@
+@legendaryLootChance
+@legendaryLootChance
+@epicLoot%@majorLoot
+Quarter talent
+@complexArmor
+@complexArmor
+@masterworkTrinket
+@masterworkTrinket
+@masterworkWeapon
+@masterworkShield
+Tier @d6plus3 @magicItem of Tier @d6plus3 @spell
+Tier @d6 scroll of learn @skill

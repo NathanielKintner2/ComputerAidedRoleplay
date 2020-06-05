@@ -1,0 +1,6 @@
+@epicLoot%@legendaryLoot
+Silverglass Bead
+tier @d4 Scroll Of Ages
+Unique Weapon
+Unique Armor
+Unique Trinket

@@ -1,0 +1,8 @@
+<Shield xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt">
+  <Coverage>0.5</Coverage>
+  <DefensiveModifier>3</DefensiveModifier>
+  <Description>It won't fly real well, tbh</Description>
+  <OffensiveModifier>-3</OffensiveModifier>
+  <ShieldName>Kite Shield</ShieldName>
+  <ShieldWeight>2</ShieldWeight>
+</Shield>

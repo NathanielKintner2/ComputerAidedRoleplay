@@ -1,0 +1,4 @@
+jar of @element
+@color potion of resist @element
+@color potion of protection
+@color potion of @stat

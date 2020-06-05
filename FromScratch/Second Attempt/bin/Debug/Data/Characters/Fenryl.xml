@@ -1,0 +1,34 @@
+<Character xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt">
+  <CharTypeTag />
+  <CombatStuff i:nil="true" />
+  <CreatureTypes>
+    <Utilities.CreatureType>Human</Utilities.CreatureType>
+    <Utilities.CreatureType>Elf</Utilities.CreatureType>
+  </CreatureTypes>
+  <Description />
+  <Effects />
+  <Enchantments xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <GoogleNinjaNotesInbound i:nil="true" />
+  <GoogleNinjaNotesOutbound i:nil="true" />
+  <GoogleNinjaNotesRebound i:nil="true" />
+  <HitPoints>0</HitPoints>
+  <Inventory />
+  <Name>Fenryl</Name>
+  <Skills>
+    <ArmorSkill>1</ArmorSkill>
+    <EnduranceSkill>3</EnduranceSkill>
+    <HPSkill>2</HPSkill>
+    <PerceptionSkill>2</PerceptionSkill>
+    <ReflexSkill>1</ReflexSkill>
+  </Skills>
+  <Spells />
+  <Stamina>0</Stamina>
+  <Statistics>
+    <Charisma>16</Charisma>
+    <Constitution>13</Constitution>
+    <Dexterity>9</Dexterity>
+    <Intelligence>10</Intelligence>
+    <Strength>10</Strength>
+    <Wisdom>11</Wisdom>
+  </Statistics>
+</Character>

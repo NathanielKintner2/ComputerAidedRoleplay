@@ -1,0 +1,14 @@
+stealth
+perception
+reflex
+acrobatics
+intimidate
+charm
+grapple
+heavy weapons
+light weapons
+ranged weapons
+combat spells
+utility spells
+knowledge @knowledgeType
+knowledge @knowledgeType

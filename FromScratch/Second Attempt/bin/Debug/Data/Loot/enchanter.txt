@@ -1,0 +1,8 @@
+tier @d4 @magicItem of tier @d4 @spell%tier 1 scroll of learn @skill%@magicTrinket
+tier @d4 @magicItem of tier @d4 @spell%tier 1 scroll of learn @skill%@magicTrinket
+@enchanter%tier @d4 @magicItem of tier @d4 @spell
+@enchanter%tier @d4 @magicItem of tier @d4 @spell
+@enchanter%tier 1 scroll of learn @skill
+@enchanter%tier 1 scroll of learn @skill
+@enchanter%@magicTrinket
+@enchanter%@magicTrinket

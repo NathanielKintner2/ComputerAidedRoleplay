@@ -1,0 +1,16 @@
+@nonzeroNumber@number feet of sturdy rope
+bedroll
+flint and steel
+canvas sack
+waterskin
+@d4plus2 torches
+@d4plus2 candles
+@d4plus2 rations of food
+@nonzeroNumber ball bearings
+jar of oil
+@d4 bandage rolls
+@tool
+@tool
+@material pole
+@nonzeroNumber pounds of @material
+@material bowl

@@ -1,0 +1,114 @@
+<Character xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt">
+  <Armor>
+    <ArmorName>Mech Suit</ArmorName>
+    <DamageReductionTypes xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+        <d3p1:Key>Crush</d3p1:Key>
+        <d3p1:Value>2</d3p1:Value>
+      </d3p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d3p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+        <d3p1:Key>Pierce</d3p1:Key>
+        <d3p1:Value>2</d3p1:Value>
+      </d3p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d3p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+        <d3p1:Key>Slash</d3p1:Key>
+        <d3p1:Value>2</d3p1:Value>
+      </d3p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+    </DamageReductionTypes>
+    <DamageResistanceTypes xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+        <d3p1:Key>Slash</d3p1:Key>
+        <d3p1:Value>0.5</d3p1:Value>
+      </d3p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d3p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+        <d3p1:Key>Crush</d3p1:Key>
+        <d3p1:Value>0.5</d3p1:Value>
+      </d3p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d3p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+        <d3p1:Key>Pierce</d3p1:Key>
+        <d3p1:Value>0.5</d3p1:Value>
+      </d3p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+    </DamageResistanceTypes>
+    <DefensiveBonus>-1</DefensiveBonus>
+    <Description>Its got an octopus in it for some reason.</Description>
+    <OffensiveBonus>-1</OffensiveBonus>
+    <StaminaRequirement>6</StaminaRequirement>
+    <Weight>4</Weight>
+  </Armor>
+  <CombatStuff>
+    <CombatDB>0</CombatDB>
+    <CombatOB>0</CombatOB>
+    <CombatShield i:nil="true" />
+    <CombatWeapon i:nil="true" />
+    <CurrentlyInCombat>false</CurrentlyInCombat>
+  </CombatStuff>
+  <HitPoints>0</HitPoints>
+  <Name>Vegeta</Name>
+  <Shields>
+    <Shield>
+      <Coverage>0</Coverage>
+      <DefensiveModifier>0</DefensiveModifier>
+      <Description>For the Shieldless wonders of the world</Description>
+      <OffensiveModifier>0</OffensiveModifier>
+      <ShieldName>No Shield</ShieldName>
+      <ShieldWeight>0</ShieldWeight>
+    </Shield>
+  </Shields>
+  <Skills>
+    <ArmorSkill>1</ArmorSkill>
+    <EnduranceSkill>1</EnduranceSkill>
+    <HPSkill>1</HPSkill>
+    <ReflexSkill>2</ReflexSkill>
+  </Skills>
+  <Stamina>0</Stamina>
+  <Statistics>
+    <Charisma>7</Charisma>
+    <Constitution>12</Constitution>
+    <Dexterity>15</Dexterity>
+    <Intelligence>18</Intelligence>
+    <Strength>13</Strength>
+    <Wisdom>11</Wisdom>
+  </Statistics>
+  <Weapons>
+    <Weapon>
+      <BlockingDifficulty>35</BlockingDifficulty>
+      <DamageTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+        <d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+          <d4p1:Key>Impact</d4p1:Key>
+          <d4p1:Value>1.5</d4p1:Value>
+        </d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+        <d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+          <d4p1:Key>Heat</d4p1:Key>
+          <d4p1:Value>0.5</d4p1:Value>
+        </d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      </DamageTypes>
+      <DefensiveBonus>-5</DefensiveBonus>
+      <Description />
+      <ExcessStrengthMultiplier>0</ExcessStrengthMultiplier>
+      <OffensiveBonus>-5</OffensiveBonus>
+      <ParryBreak>2</ParryBreak>
+      <ParryStrength>0.15</ParryStrength>
+      <StaminaRequirement>45</StaminaRequirement>
+      <WeaponName>Magic Missile</WeaponName>
+      <Weight>0</Weight>
+    </Weapon>
+    <Weapon>
+      <BlockingDifficulty>0</BlockingDifficulty>
+      <DamageTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+        <d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+          <d4p1:Key>Crush</d4p1:Key>
+          <d4p1:Value>2</d4p1:Value>
+        </d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      </DamageTypes>
+      <DefensiveBonus>2</DefensiveBonus>
+      <Description />
+      <ExcessStrengthMultiplier>0.75</ExcessStrengthMultiplier>
+      <OffensiveBonus>2</OffensiveBonus>
+      <ParryBreak>2</ParryBreak>
+      <ParryStrength>2</ParryStrength>
+      <StaminaRequirement>2</StaminaRequirement>
+      <WeaponName>Mech Fist</WeaponName>
+      <Weight>6</Weight>
+    </Weapon>
+  </Weapons>
+</Character>

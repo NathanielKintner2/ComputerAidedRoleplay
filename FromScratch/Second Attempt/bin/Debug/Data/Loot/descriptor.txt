@@ -1,0 +1,13 @@
+small
+large
+rough
+smooth
+beautiful
+ugly
+crude
+ornate
+intricate
+simple
+fragrant
+@rareDescriptor
+@rareDescriptor

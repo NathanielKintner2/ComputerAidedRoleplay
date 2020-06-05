@@ -1,0 +1,12 @@
+tier @d4plus2 @armorEnchantment_ing and @masterworkArmor
+tier @d4plus2 @generalEnchantment_ing and @masterworkArmor
+@masterworkArmor and tier @d4plus2 @armorEnchantment
+@masterworkArmor and tier @d4plus2 @generalEnchantment
+tier @d6plus3 @armorEnchantment_ing and @complexArmor
+tier @d6plus3 @armorEnchantment_ing and @complexArmor
+tier @d6plus3 @generalEnchantment_ing and @complexArmor
+tier @d6plus3 @generalEnchantment_ing and @complexArmor
+@complexArmor and tier @d6plus3 @armorEnchantment
+@complexArmor and tier @d6plus3 @armorEnchantment
+@complexArmor and tier @d6plus3 @generalEnchantment
+@complexArmor and tier @d6plus3 @generalEnchantment

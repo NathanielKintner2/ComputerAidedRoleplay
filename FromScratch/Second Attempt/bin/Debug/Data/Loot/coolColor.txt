@@ -1,0 +1,6 @@
+green
+blue
+purple
+black
+maroon
+turquoise

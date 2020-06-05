@@ -1,0 +1,36 @@
+<Armor xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt">
+  <ArmorName>Mech Suit</ArmorName>
+  <DamageReductionTypes xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d2p1:Key>Crush</d2p1:Key>
+      <d2p1:Value>2</d2p1:Value>
+    </d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+    <d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d2p1:Key>Pierce</d2p1:Key>
+      <d2p1:Value>2</d2p1:Value>
+    </d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+    <d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d2p1:Key>Slash</d2p1:Key>
+      <d2p1:Value>2</d2p1:Value>
+    </d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+  </DamageReductionTypes>
+  <DamageResistanceTypes xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d2p1:Key>Slash</d2p1:Key>
+      <d2p1:Value>0.5</d2p1:Value>
+    </d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+    <d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d2p1:Key>Crush</d2p1:Key>
+      <d2p1:Value>0.5</d2p1:Value>
+    </d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+    <d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d2p1:Key>Pierce</d2p1:Key>
+      <d2p1:Value>0.5</d2p1:Value>
+    </d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+  </DamageResistanceTypes>
+  <DefensiveBonus>-1</DefensiveBonus>
+  <Description>Its got an octopus in it for some reason.</Description>
+  <OffensiveBonus>-1</OffensiveBonus>
+  <StaminaRequirement>6</StaminaRequirement>
+  <Weight>4</Weight>
+</Armor>

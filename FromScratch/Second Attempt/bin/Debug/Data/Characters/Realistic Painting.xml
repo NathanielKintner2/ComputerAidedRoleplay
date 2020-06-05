@@ -1,0 +1,34 @@
+<Character xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt">
+  <CharTypeTag />
+  <CombatStuff i:nil="true" />
+  <CreatureTypes>
+    <Utilities.CreatureType>Elemental</Utilities.CreatureType>
+    <Utilities.CreatureType>Natural</Utilities.CreatureType>
+  </CreatureTypes>
+  <Description />
+  <Effects />
+  <Enchantments xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <GoogleNinjaNotesInbound i:nil="true" />
+  <GoogleNinjaNotesOutbound i:nil="true" />
+  <GoogleNinjaNotesRebound i:nil="true" />
+  <HitPoints>0</HitPoints>
+  <Inventory />
+  <Name>Realistic Painting</Name>
+  <Skills>
+    <ArmorSkill>0</ArmorSkill>
+    <EnduranceSkill>0</EnduranceSkill>
+    <HPSkill>0</HPSkill>
+    <PerceptionSkill>0</PerceptionSkill>
+    <ReflexSkill>0</ReflexSkill>
+  </Skills>
+  <Spells />
+  <Stamina>0</Stamina>
+  <Statistics>
+    <Charisma>2</Charisma>
+    <Constitution>2</Constitution>
+    <Dexterity>2</Dexterity>
+    <Intelligence>2</Intelligence>
+    <Strength>2</Strength>
+    <Wisdom>2</Wisdom>
+  </Statistics>
+</Character>

@@ -1,0 +1,7 @@
+white
+translucent
+shiny
+yellow
+cyan
+pink
+chartreuse

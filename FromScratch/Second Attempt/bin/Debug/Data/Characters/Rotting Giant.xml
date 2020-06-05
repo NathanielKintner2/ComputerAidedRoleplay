@@ -1,0 +1,75 @@
+<Character xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt">
+  <CharTypeTag />
+  <CombatStuff i:nil="true" />
+  <CreatureTypes>
+    <Utilities.CreatureType>Undead</Utilities.CreatureType>
+  </CreatureTypes>
+  <Description>(Originally had Hard Leather? Given Cadaverous Flesh)</Description>
+  <Effects />
+  <Enchantments xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <GoogleNinjaNotesInbound i:nil="true" />
+  <GoogleNinjaNotesOutbound i:nil="true" />
+  <GoogleNinjaNotesRebound i:nil="true" />
+  <HitPoints>0</HitPoints>
+  <Inventory>
+    <Item i:type="Armor">
+      <Count>1</Count>
+      <Description i:nil="true" />
+      <Enchantments xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <IsEquipped>true</IsEquipped>
+      <IsIdentified>true</IsIdentified>
+      <ItemEffects />
+      <ItemName>Cadaverous Flesh</ItemName>
+      <Type>Gloves</Type>
+      <UnidentifiedDescription />
+      <Use>Equipable</Use>
+      <Weight>0</Weight>
+      <CoveredAreas />
+      <DamageReductionTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <DamageResistanceTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <DefensiveBonus>0</DefensiveBonus>
+      <OffensiveBonus>0</OffensiveBonus>
+      <StaminaRequirement>0</StaminaRequirement>
+    </Item>
+    <Item i:type="Weapon">
+      <Count>1</Count>
+      <Description i:nil="true" />
+      <Enchantments xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <IsEquipped>true</IsEquipped>
+      <IsIdentified>true</IsIdentified>
+      <ItemEffects />
+      <ItemName>Greataxe</ItemName>
+      <Type>Gloves</Type>
+      <UnidentifiedDescription />
+      <Use>Equipable</Use>
+      <Weight>0</Weight>
+      <BlockingDifficulty>0</BlockingDifficulty>
+      <DamageTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <DefensiveBonus>0</DefensiveBonus>
+      <ExcessStrengthMultiplier>0</ExcessStrengthMultiplier>
+      <OffensiveBonus>0</OffensiveBonus>
+      <ParryBreak>0</ParryBreak>
+      <ParryStrength>0</ParryStrength>
+      <StaminaRequirement>0</StaminaRequirement>
+      <WeaponTypes />
+    </Item>
+  </Inventory>
+  <Name>Rotting Giant</Name>
+  <Skills>
+    <ArmorSkill>0</ArmorSkill>
+    <EnduranceSkill>100</EnduranceSkill>
+    <HPSkill>6</HPSkill>
+    <PerceptionSkill>0</PerceptionSkill>
+    <ReflexSkill>2</ReflexSkill>
+  </Skills>
+  <Spells />
+  <Stamina>0</Stamina>
+  <Statistics>
+    <Charisma>2</Charisma>
+    <Constitution>15</Constitution>
+    <Dexterity>14</Dexterity>
+    <Intelligence>2</Intelligence>
+    <Strength>14</Strength>
+    <Wisdom>2</Wisdom>
+  </Statistics>
+</Character>

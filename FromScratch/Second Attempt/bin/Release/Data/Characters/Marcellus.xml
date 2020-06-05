@@ -1,0 +1,135 @@
+<Character xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt">
+  <Armor>
+    <ArmorName>Hard Leather</ArmorName>
+    <DamageReductionTypes xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+    <DamageResistanceTypes xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+        <d3p1:Key>Slash</d3p1:Key>
+        <d3p1:Value>0.3</d3p1:Value>
+      </d3p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d3p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+        <d3p1:Key>Pierce</d3p1:Key>
+        <d3p1:Value>0.3</d3p1:Value>
+      </d3p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d3p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+        <d3p1:Key>Crush</d3p1:Key>
+        <d3p1:Value>0.3</d3p1:Value>
+      </d3p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d3p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+        <d3p1:Key>Cold</d3p1:Key>
+        <d3p1:Value>0.5</d3p1:Value>
+      </d3p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+    </DamageResistanceTypes>
+    <DefensiveBonus>0</DefensiveBonus>
+    <Description />
+    <OffensiveBonus>0</OffensiveBonus>
+    <StaminaRequirement>5</StaminaRequirement>
+    <Weight>4</Weight>
+  </Armor>
+  <CombatStuff>
+    <CombatDB>0</CombatDB>
+    <CombatOB>0</CombatOB>
+    <CombatShield i:nil="true" />
+    <CombatWeapon i:nil="true" />
+    <CurrentlyInCombat>false</CurrentlyInCombat>
+  </CombatStuff>
+  <HitPoints>0</HitPoints>
+  <Name>Marcellus</Name>
+  <Shields>
+    <Shield>
+      <Coverage>0.25</Coverage>
+      <DefensiveModifier>1</DefensiveModifier>
+      <Description>Goes well with swash.</Description>
+      <OffensiveModifier>0</OffensiveModifier>
+      <ShieldName>Buckler</ShieldName>
+      <ShieldWeight>1</ShieldWeight>
+    </Shield>
+  </Shields>
+  <Skills>
+    <ArmorSkill>2</ArmorSkill>
+    <EnduranceSkill>3</EnduranceSkill>
+    <HPSkill>2</HPSkill>
+    <ReflexSkill>3</ReflexSkill>
+  </Skills>
+  <Stamina>0</Stamina>
+  <Statistics>
+    <Charisma>10</Charisma>
+    <Constitution>15</Constitution>
+    <Dexterity>15</Dexterity>
+    <Intelligence>11</Intelligence>
+    <Strength>11</Strength>
+    <Wisdom>15</Wisdom>
+  </Statistics>
+  <Weapons>
+    <Weapon>
+      <BlockingDifficulty>0</BlockingDifficulty>
+      <DamageTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+        <d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+          <d4p1:Key>Slash</d4p1:Key>
+          <d4p1:Value>1</d4p1:Value>
+        </d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+        <d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+          <d4p1:Key>Pierce</d4p1:Key>
+          <d4p1:Value>1</d4p1:Value>
+        </d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+        <d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+          <d4p1:Key>Cold</d4p1:Key>
+          <d4p1:Value>0.25</d4p1:Value>
+        </d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      </DamageTypes>
+      <DefensiveBonus>2</DefensiveBonus>
+      <Description />
+      <ExcessStrengthMultiplier>0.75</ExcessStrengthMultiplier>
+      <OffensiveBonus>2</OffensiveBonus>
+      <ParryBreak>2</ParryBreak>
+      <ParryStrength>2</ParryStrength>
+      <StaminaRequirement>5</StaminaRequirement>
+      <WeaponName>Icy Bastard Sword</WeaponName>
+      <Weight>6</Weight>
+    </Weapon>
+    <Weapon>
+      <BlockingDifficulty>35</BlockingDifficulty>
+      <DamageTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+        <d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+          <d4p1:Key>Pierce</d4p1:Key>
+          <d4p1:Value>1</d4p1:Value>
+        </d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+        <d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+          <d4p1:Key>Cold</d4p1:Key>
+          <d4p1:Value>1</d4p1:Value>
+        </d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      </DamageTypes>
+      <DefensiveBonus>-5</DefensiveBonus>
+      <Description />
+      <ExcessStrengthMultiplier>0</ExcessStrengthMultiplier>
+      <OffensiveBonus>-5</OffensiveBonus>
+      <ParryBreak>2</ParryBreak>
+      <ParryStrength>0.15</ParryStrength>
+      <StaminaRequirement>45</StaminaRequirement>
+      <WeaponName>Ice Bolt</WeaponName>
+      <Weight>0</Weight>
+    </Weapon>
+    <Weapon>
+      <BlockingDifficulty>10</BlockingDifficulty>
+      <DamageTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+        <d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+          <d4p1:Key>Pierce</d4p1:Key>
+          <d4p1:Value>0.75</d4p1:Value>
+        </d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+        <d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+          <d4p1:Key>Slash</d4p1:Key>
+          <d4p1:Value>0.25</d4p1:Value>
+        </d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      </DamageTypes>
+      <DefensiveBonus>2</DefensiveBonus>
+      <Description>Use it in your left hand first, then switch to your right to bamboozle spanish duelists</Description>
+      <ExcessStrengthMultiplier>0.1</ExcessStrengthMultiplier>
+      <OffensiveBonus>2</OffensiveBonus>
+      <ParryBreak>1</ParryBreak>
+      <ParryStrength>0.5</ParryStrength>
+      <StaminaRequirement>3</StaminaRequirement>
+      <WeaponName>Rapier</WeaponName>
+      <Weight>1</Weight>
+    </Weapon>
+  </Weapons>
+</Character>

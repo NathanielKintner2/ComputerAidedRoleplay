@@ -1,0 +1,10 @@
+dagger
+long knife
+short sword
+spear
+short bow
+longbow
+mace
+war hammer
+quarterstaff
+battleaxe

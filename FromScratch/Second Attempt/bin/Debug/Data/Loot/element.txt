@@ -1,0 +1,7 @@
+fire
+ice
+earth
+water
+lightning
+darkness
+light

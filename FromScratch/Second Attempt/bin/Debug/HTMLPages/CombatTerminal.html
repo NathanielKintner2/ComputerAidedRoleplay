@@ -1,0 +1,261 @@
+﻿<!DOCTYPE html>
+<script>
+    if ( window.history.replaceState ) {
+        window.history.replaceState( null, null, window.location.href );
+    }
+</script>
+<html>
+<head>
+    <style>
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        td, th {
+            border: 1px solid #dddddd;
+            text-align: center;
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #cccccc;
+        }
+
+        tr:nth-child(odd) {
+            background-color: #ffffff;
+        }
+
+        div.dumb {
+            letter-spacing: 12px;
+            font-size: 50px;
+            position: relative;
+            left: 25px;
+            top: 25px;
+        }
+
+        div.holder {
+            width: 1200px;
+            background-color: #0505a0;
+            letter-spacing: 2px;
+            font-size: 25px;
+            margin: 2px;
+            border: 2px solid #1010d0;
+            display: inline-block;
+            padding: 2px;
+            vertical-align: top;
+        }
+
+        div.titlename {
+            letter-spacing: 2px;
+            background-color: #f0f0ff;
+            font-size: 25px;
+            margin: 2px;
+            border: 2px solid #1010d0;
+            display: inline-block;
+            padding: 2px;
+            vertical-align: top;
+        }
+
+        div.topRow {
+            height: 265px;
+            letter-spacing: 2px;
+            background-color: #f0f0ff;
+            font-size: 15px;
+            margin: 2px;
+            border: 2px solid #1010d0;
+            display: inline-block;
+            padding: 2px;
+            vertical-align: top;
+        }
+
+        div.scrollbox {
+            width: 350px;
+            height: 265px;
+            background-color: #f0f0ff;
+            letter-spacing: 2px;
+            font-size: 15px;
+            margin: 2px;
+            border: 2px solid #1010d0;
+            display: inline-block;
+            padding: 2px;
+            vertical-align: top;
+            overflow:auto;
+        }
+
+        div.stats {
+            letter-spacing: 2px;
+            font-size: 15px;
+            margin: 2px;
+            border: 2px solid #1010d0;
+            display: block;
+            padding: 2px;
+            vertical-align: bottom;
+            padding-bottom: 3px;
+        }
+
+        div.leftbox {
+            letter-spacing: 2px;
+            font-size: 16px;
+            position: relative;
+            margin: 2px;
+            border: 2px solid #1010d0;
+            padding: 2px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="holder">
+        <form method="post" autocomplete="off" action="asdf" id="combatform">
+            <div style="white-space: nowrap">
+                <div class="topRow">
+                    <div class="titlename" id="CharacterName">Kimora</div>
+                    <div class="leftbox">
+                        <table>
+                            <tr>
+                                <td>str</td>
+                                <td id="str">5</td>
+                            </tr>
+                            <tr>
+                                <td>dex</td>
+                                <td id="dex">6</td>
+                            </tr>
+                            <tr>
+                                <td>con</td>
+                                <td id="con">4</td>
+                            </tr>
+                            <tr>
+                                <td>int</td>
+                                <td id="int">23</td>
+                            </tr>
+                            <tr>
+                                <td>wis</td>
+                                <td id="wis">-1</td>
+                            </tr>
+                            <tr>
+                                <td>cha</td>
+                                <td id="cha">12</td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+                <div class="topRow">
+                    <div class="stats">
+                        <table>
+                            <tr>
+                                <td>hp</td>
+                                <td id="hp">55</td>
+                                <td>stamina</td>
+                                <td id="stamina">580</td>
+                            </tr>
+                            <tr>
+                                <td>regen</td>
+                                <td id="regen">-4</td>
+                                <td>exhaustion</td>
+                                <td id="exhaustion">0.8</td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div class="stats">
+                        <table>
+                            <tr>
+                                <td>obMod</td>
+                                <td id="obmod">55</td>
+                            </tr>
+                            <tr>
+                                <td>dbMod</td>
+                                <td id="dbmod">-4</td>
+                            </tr>
+                            <tr>
+                                <td>focus</td>
+                                <td id="focus">1</td>
+                            </tr>
+                            <tr>
+                                <td>reflex</td>
+                                <td id="reflex">8</td>
+                            </tr>
+                            <tr>
+                                <td>weightfactor</td>
+                                <td id="weightfactor">-4</td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+                <div class="scrollbox" id="attacks">
+                </div>
+                <div class="scrollbox" id="attackresults">
+                </div>
+            </div>
+            <div class="stats">
+                <table>
+                    <tr>
+                        <td>Weapon</td>
+                        <td>Shield</td>
+                        <td>Target</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <select id=weapons name="selectedweapon" list=weapons value=weaps></select>
+                        </td>
+                        <td>
+                            <select id=shields name="selectedshield" list=shields value=shields></select>
+                        </td>
+                        <td>
+                            <select id=targets name="selectedtargets" list=targets value=targs></select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Off Bonus</td>
+                        <td>Def Bonus</td>
+                        <td>Roll</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <input type=text name="offbonus" id="offbonus" value=OffBonus>
+                        </td>
+                        <td>
+                            <input type=text name="defbonus" id="defbonus" value=DefBonus>
+                        </td>
+                        <td>
+                            <input type=text name="roll" id="roll" value=Roll>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div class="stats">
+                <table>
+                    <tr>
+                        <td>Spell</td>
+                        <td>Target</td>
+                        <td>SpellPower</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <select id=spells name="selectedspell" list=spells value=spel></select>
+                        </td>
+                        <td>
+                            <select id=spelltargets name="selectedspelltargets" list=targets value=targs></select>
+                        </td>
+                        <td>
+                            <input type=text name="spellpower" id="spellpower" value=spellpower>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <input type="submit" id="attackbutton" name="action" value="Add Attack Target"/>
+            <input type="submit" name="action" value="Remove Attack Target" />
+            <input type="submit" name="action" value="Add Spell Target" />
+            <input type="submit" name="action" value="Remove Spell Target" />
+            <input type="submit" name="action" value="Just Update Values" />
+        </form>
+        <form id="menuform" action="asdf">
+            <input type="submit" value="Back To Main" />
+        </form>
+        <form id="inventoryform" action="asdf">
+            <input type="submit" value="To Inventory" />
+        </form>
+    </div>
+</body>
+</html>

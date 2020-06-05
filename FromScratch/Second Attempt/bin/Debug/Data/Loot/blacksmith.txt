@@ -1,0 +1,10 @@
+@weapon%@armor%@armor%@magicWeapon%@magicArmor%@complexWeapon
+@weapon%@armor%@armor%@magicWeapon%@magicArmor%@complexWeapon
+@blacksmith%@weapon
+@blacksmith%@armor
+@blacksmith%@armor
+@blacksmith%@magicWeapon
+@blacksmith%@magicArmor
+@blacksmith%@magicArmor
+@blacksmith%@complexArmor
+@blacksmith%@complexWeapon

@@ -1,0 +1,36 @@
+<Weapon xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt">
+  <Count>0</Count>
+  <Description>We throwing some ice over here</Description>
+  <Enchantments xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <IsEquipped>false</IsEquipped>
+  <IsIdentified>false</IsIdentified>
+  <ItemEffects />
+  <ItemName>Ice Bolt</ItemName>
+  <Type>Gloves</Type>
+  <UnidentifiedDescription i:nil="true" />
+  <Use>Equipable</Use>
+  <Weight>0</Weight>
+  <BlockingDifficulty>35</BlockingDifficulty>
+  <DamageTypes xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d2p1:Key>Pierce</d2p1:Key>
+      <d2p1:Value>0.3</d2p1:Value>
+    </d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+    <d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d2p1:Key>Cold</d2p1:Key>
+      <d2p1:Value>0.75</d2p1:Value>
+    </d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+  </DamageTypes>
+  <DefensiveBonus>0</DefensiveBonus>
+  <ExcessStrengthMultiplier>0</ExcessStrengthMultiplier>
+  <OffensiveBonus>0</OffensiveBonus>
+  <ParryBreak>2</ParryBreak>
+  <ParryStrength>0</ParryStrength>
+  <StaminaRequirement>35</StaminaRequirement>
+  <WeaponTypes>
+    <Utilities.WeaponType>Ranged</Utilities.WeaponType>
+    <Utilities.WeaponType>Magical</Utilities.WeaponType>
+    <Utilities.WeaponType>Spell</Utilities.WeaponType>
+    <Utilities.WeaponType>ElementalSpell</Utilities.WeaponType>
+  </WeaponTypes>
+</Weapon>

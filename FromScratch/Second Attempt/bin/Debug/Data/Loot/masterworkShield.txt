@@ -1,0 +1,12 @@
+@d4plus2 @shieldEnchantment_ing and @masterworkShield
+@d4plus2 @generalEnchantment_ing and @masterworkShield
+@masterworkShield and @d4plus2 @shieldEnchantment
+@masterworkShield and tier @d4plus2 @generalEnchantment
+tier @d6plus3 @shieldEnchantment_ing and @complexShield
+tier @d6plus3 @shieldEnchantment_ing and @complexShield
+tier @d6plus3 @generalEnchantment_ing and @complexShield
+tier @d6plus3 @generalEnchantment_ing and @complexShield
+@complexShield and tier @d6plus3 @shieldEnchantment
+@complexShield and tier @d6plus3 @shieldEnchantment
+@complexShield and tier @d6plus3 @generalEnchantment
+@complexShield and tier @d6plus3 @generalEnchantment

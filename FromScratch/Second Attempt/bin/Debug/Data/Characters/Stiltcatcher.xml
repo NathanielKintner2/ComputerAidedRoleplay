@@ -1,0 +1,118 @@
+<Character xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt">
+  <CharTypeTag />
+  <CombatStuff>
+    <CombatDB>0</CombatDB>
+    <CombatOB>0</CombatOB>
+  </CombatStuff>
+  <CreatureTypes>
+    <Utilities.CreatureType>Mechanical</Utilities.CreatureType>
+  </CreatureTypes>
+  <Description />
+  <Effects>
+    <Effect>
+      <damageType i:nil="true" />
+      <deterioration>0</deterioration>
+      <effectLength>-1</effectLength>
+      <effectStrength>100</effectStrength>
+      <effectTag>NoTag</effectTag>
+      <effectTypes>
+        <EffectHolder.EffectType>ResistBleed</EffectHolder.EffectType>
+      </effectTypes>
+    </Effect>
+    <Effect>
+      <damageType i:nil="true" />
+      <deterioration>0</deterioration>
+      <effectLength>-1</effectLength>
+      <effectStrength>100</effectStrength>
+      <effectTag>NoTag</effectTag>
+      <effectTypes>
+        <EffectHolder.EffectType>ResistDisorientation</EffectHolder.EffectType>
+      </effectTypes>
+    </Effect>
+    <Effect>
+      <damageType i:nil="true" />
+      <deterioration>0</deterioration>
+      <effectLength>-1</effectLength>
+      <effectStrength>100</effectStrength>
+      <effectTag>NoTag</effectTag>
+      <effectTypes>
+        <EffectHolder.EffectType>ResistTrauma</EffectHolder.EffectType>
+      </effectTypes>
+    </Effect>
+  </Effects>
+  <Enchantments xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <GoogleNinjaNotesInbound i:nil="true" />
+  <GoogleNinjaNotesOutbound i:nil="true" />
+  <GoogleNinjaNotesRebound i:nil="true" />
+  <HitPoints>100</HitPoints>
+  <Inventory>
+    <Item i:type="Armor">
+      <Count>1</Count>
+      <Description i:nil="true" />
+      <Enchantments xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <IsEquipped>true</IsEquipped>
+      <IsIdentified>true</IsIdentified>
+      <ItemEffects />
+      <ItemName>Wooden Hull</ItemName>
+      <Type>Gloves</Type>
+      <UnidentifiedDescription />
+      <Use>Equipable</Use>
+      <Weight>0</Weight>
+      <CoveredAreas />
+      <DamageReductionTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <DamageResistanceTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <DefensiveBonus>0</DefensiveBonus>
+      <OffensiveBonus>0</OffensiveBonus>
+      <StaminaRequirement>0</StaminaRequirement>
+    </Item>
+    <Item i:type="Weapon">
+      <Count>1</Count>
+      <Description i:nil="true" />
+      <Enchantments xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <IsEquipped>true</IsEquipped>
+      <IsIdentified>true</IsIdentified>
+      <ItemEffects />
+      <ItemName>Silvertipped Harpoon</ItemName>
+      <Type>Gloves</Type>
+      <UnidentifiedDescription />
+      <Use>Equipable</Use>
+      <Weight>0</Weight>
+      <BlockingDifficulty>0</BlockingDifficulty>
+      <DamageTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <DefensiveBonus>0</DefensiveBonus>
+      <ExcessStrengthMultiplier>0</ExcessStrengthMultiplier>
+      <OffensiveBonus>0</OffensiveBonus>
+      <ParryBreak>0</ParryBreak>
+      <ParryStrength>0</ParryStrength>
+      <StaminaRequirement>0</StaminaRequirement>
+      <WeaponTypes />
+    </Item>
+  </Inventory>
+  <Name>Stiltcatcher</Name>
+  <Skills>
+    <ArmorSkill>0</ArmorSkill>
+    <EnduranceSkill>0</EnduranceSkill>
+    <HPSkill>0</HPSkill>
+    <PerceptionSkill>0</PerceptionSkill>
+    <ReflexSkill>0</ReflexSkill>
+  </Skills>
+  <Spells>
+    <Spell>
+      <Description i:nil="true" />
+      <GoogleSheetID i:nil="true" />
+      <SpellCost>0</SpellCost>
+      <SpellEffects xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <SpellName>Tangle</SpellName>
+      <SpellWeapons xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+    </Spell>
+  </Spells>
+  <Stamina>1300</Stamina>
+  <Statistics>
+    <Charisma>1</Charisma>
+    <Constitution>50</Constitution>
+    <Dexterity>5</Dexterity>
+    <Intelligence>1</Intelligence>
+    <Strength>15</Strength>
+    <Wisdom>1</Wisdom>
+  </Statistics>
+</Character>

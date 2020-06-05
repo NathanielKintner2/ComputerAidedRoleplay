@@ -1,0 +1,35 @@
+<Weapon xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt">
+  <Count>0</Count>
+  <Description>Cold sword</Description>
+  <Enchantments xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <IsEquipped>false</IsEquipped>
+  <IsIdentified>false</IsIdentified>
+  <ItemEffects />
+  <ItemName>Icy Bastard Sword</ItemName>
+  <Type>Gloves</Type>
+  <UnidentifiedDescription i:nil="true" />
+  <Use>Equipable</Use>
+  <Weight>7</Weight>
+  <BlockingDifficulty>2</BlockingDifficulty>
+  <DamageTypes xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d2p1:Key>Pierce</d2p1:Key>
+      <d2p1:Value>0.75</d2p1:Value>
+    </d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+    <d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d2p1:Key>Cold</d2p1:Key>
+      <d2p1:Value>0.25</d2p1:Value>
+    </d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+    <d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d2p1:Key>Slash</d2p1:Key>
+      <d2p1:Value>0.85</d2p1:Value>
+    </d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+  </DamageTypes>
+  <DefensiveBonus>2</DefensiveBonus>
+  <ExcessStrengthMultiplier>0.2</ExcessStrengthMultiplier>
+  <OffensiveBonus>2</OffensiveBonus>
+  <ParryBreak>2</ParryBreak>
+  <ParryStrength>2</ParryStrength>
+  <StaminaRequirement>5</StaminaRequirement>
+  <WeaponTypes />
+</Weapon>

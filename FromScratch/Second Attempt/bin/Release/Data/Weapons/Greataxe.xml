@@ -1,0 +1,22 @@
+<Weapon xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt">
+  <BlockingDifficulty>0</BlockingDifficulty>
+  <DamageTypes xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d2p1:Key>Slash</d2p1:Key>
+      <d2p1:Value>1.5</d2p1:Value>
+    </d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+    <d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d2p1:Key>Crush</d2p1:Key>
+      <d2p1:Value>1.5</d2p1:Value>
+    </d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+  </DamageTypes>
+  <DefensiveBonus>0</DefensiveBonus>
+  <Description />
+  <ExcessStrengthMultiplier>0.3</ExcessStrengthMultiplier>
+  <OffensiveBonus>0</OffensiveBonus>
+  <ParryBreak>2</ParryBreak>
+  <ParryStrength>1.5</ParryStrength>
+  <StaminaRequirement>10</StaminaRequirement>
+  <WeaponName>Greataxe</WeaponName>
+  <Weight>11</Weight>
+</Weapon>

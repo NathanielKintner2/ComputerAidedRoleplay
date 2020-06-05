@@ -1,0 +1,279 @@
+<Character xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt">
+  <CharTypeTag />
+  <CombatStuff>
+    <CombatDB>0</CombatDB>
+    <CombatOB>0</CombatOB>
+  </CombatStuff>
+  <CreatureTypes>
+    <Utilities.CreatureType>Human</Utilities.CreatureType>
+  </CreatureTypes>
+  <Description>(Missing Permanence?, Hailstone Aura Enchantment?) (Originally had Full Plate? Given generic Iron set)
+A lovely gentleman, who vanished for several thousand years and reappeared during the Zemistary-Hellsborough conflict. Worships Harl, an ancient harvest god who has no other supporters.</Description>
+  <Effects>
+    <Effect>
+      <damageType i:nil="true" />
+      <deterioration>0</deterioration>
+      <effectLength>-1</effectLength>
+      <effectStrength>2.25</effectStrength>
+      <effectTag>NoTag</effectTag>
+      <effectTypes>
+        <EffectHolder.EffectType>DamageReduction</EffectHolder.EffectType>
+      </effectTypes>
+    </Effect>
+  </Effects>
+  <Enchantments xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <GoogleNinjaNotesInbound i:nil="true" />
+  <GoogleNinjaNotesOutbound i:nil="true" />
+  <GoogleNinjaNotesRebound i:nil="true" />
+  <HitPoints>59.5</HitPoints>
+  <Inventory>
+    <Item i:type="Weapon">
+      <Count>1</Count>
+      <Description i:nil="true" />
+      <Enchantments xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <IsEquipped>true</IsEquipped>
+      <IsIdentified>true</IsIdentified>
+      <ItemEffects />
+      <ItemName>Spear of Lancing Hailstones</ItemName>
+      <Type>Gloves</Type>
+      <UnidentifiedDescription />
+      <Use>Equipable</Use>
+      <Weight>0</Weight>
+      <BlockingDifficulty>0</BlockingDifficulty>
+      <DamageTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <DefensiveBonus>0</DefensiveBonus>
+      <ExcessStrengthMultiplier>0</ExcessStrengthMultiplier>
+      <OffensiveBonus>0</OffensiveBonus>
+      <ParryBreak>0</ParryBreak>
+      <ParryStrength>0</ParryStrength>
+      <StaminaRequirement>0</StaminaRequirement>
+      <WeaponTypes />
+    </Item>
+    <Item i:type="Weapon">
+      <Count>1</Count>
+      <Description i:nil="true" />
+      <Enchantments xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <IsEquipped>true</IsEquipped>
+      <IsIdentified>true</IsIdentified>
+      <ItemEffects />
+      <ItemName>Shield Bash</ItemName>
+      <Type>Gloves</Type>
+      <UnidentifiedDescription />
+      <Use>Equipable</Use>
+      <Weight>0</Weight>
+      <BlockingDifficulty>0</BlockingDifficulty>
+      <DamageTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <DefensiveBonus>0</DefensiveBonus>
+      <ExcessStrengthMultiplier>0</ExcessStrengthMultiplier>
+      <OffensiveBonus>0</OffensiveBonus>
+      <ParryBreak>0</ParryBreak>
+      <ParryStrength>0</ParryStrength>
+      <StaminaRequirement>0</StaminaRequirement>
+      <WeaponTypes />
+    </Item>
+    <Item i:type="Shield">
+      <Count>1</Count>
+      <Description i:nil="true" />
+      <Enchantments xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <IsEquipped>true</IsEquipped>
+      <IsIdentified>true</IsIdentified>
+      <ItemEffects />
+      <ItemName>The Shard of Eternity</ItemName>
+      <Type>Gloves</Type>
+      <UnidentifiedDescription />
+      <Use>Equipable</Use>
+      <Weight>0</Weight>
+      <Coverage>0</Coverage>
+      <DefensiveBonus>0</DefensiveBonus>
+      <OffensiveBonus>0</OffensiveBonus>
+    </Item>
+    <Item i:type="Armor">
+      <Count>1</Count>
+      <Description i:nil="true" />
+      <Enchantments xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <IsEquipped>true</IsEquipped>
+      <IsIdentified>true</IsIdentified>
+      <ItemEffects />
+      <ItemName>Iron Boots</ItemName>
+      <Type>Gloves</Type>
+      <UnidentifiedDescription />
+      <Use>Equipable</Use>
+      <Weight>0</Weight>
+      <CoveredAreas />
+      <DamageReductionTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <DamageResistanceTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <DefensiveBonus>0</DefensiveBonus>
+      <OffensiveBonus>0</OffensiveBonus>
+      <StaminaRequirement>0</StaminaRequirement>
+    </Item>
+    <Item i:type="Armor">
+      <Count>1</Count>
+      <Description i:nil="true" />
+      <Enchantments xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <IsEquipped>true</IsEquipped>
+      <IsIdentified>true</IsIdentified>
+      <ItemEffects />
+      <ItemName>Iron Breastplate</ItemName>
+      <Type>Gloves</Type>
+      <UnidentifiedDescription />
+      <Use>Equipable</Use>
+      <Weight>0</Weight>
+      <CoveredAreas />
+      <DamageReductionTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <DamageResistanceTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <DefensiveBonus>0</DefensiveBonus>
+      <OffensiveBonus>0</OffensiveBonus>
+      <StaminaRequirement>0</StaminaRequirement>
+    </Item>
+    <Item i:type="Armor">
+      <Count>1</Count>
+      <Description i:nil="true" />
+      <Enchantments xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <IsEquipped>true</IsEquipped>
+      <IsIdentified>true</IsIdentified>
+      <ItemEffects />
+      <ItemName>Iron Coat</ItemName>
+      <Type>Gloves</Type>
+      <UnidentifiedDescription />
+      <Use>Equipable</Use>
+      <Weight>0</Weight>
+      <CoveredAreas />
+      <DamageReductionTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <DamageResistanceTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <DefensiveBonus>0</DefensiveBonus>
+      <OffensiveBonus>0</OffensiveBonus>
+      <StaminaRequirement>0</StaminaRequirement>
+    </Item>
+    <Item i:type="Armor">
+      <Count>1</Count>
+      <Description i:nil="true" />
+      <Enchantments xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <IsEquipped>true</IsEquipped>
+      <IsIdentified>true</IsIdentified>
+      <ItemEffects />
+      <ItemName>Iron Gloves</ItemName>
+      <Type>Gloves</Type>
+      <UnidentifiedDescription />
+      <Use>Equipable</Use>
+      <Weight>0</Weight>
+      <CoveredAreas />
+      <DamageReductionTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <DamageResistanceTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <DefensiveBonus>0</DefensiveBonus>
+      <OffensiveBonus>0</OffensiveBonus>
+      <StaminaRequirement>0</StaminaRequirement>
+    </Item>
+    <Item i:type="Armor">
+      <Count>1</Count>
+      <Description i:nil="true" />
+      <Enchantments xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <IsEquipped>true</IsEquipped>
+      <IsIdentified>true</IsIdentified>
+      <ItemEffects />
+      <ItemName>Iron Helm</ItemName>
+      <Type>Gloves</Type>
+      <UnidentifiedDescription />
+      <Use>Equipable</Use>
+      <Weight>0</Weight>
+      <CoveredAreas />
+      <DamageReductionTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <DamageResistanceTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <DefensiveBonus>0</DefensiveBonus>
+      <OffensiveBonus>0</OffensiveBonus>
+      <StaminaRequirement>0</StaminaRequirement>
+    </Item>
+    <Item i:type="Armor">
+      <Count>1</Count>
+      <Description i:nil="true" />
+      <Enchantments xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <IsEquipped>true</IsEquipped>
+      <IsIdentified>true</IsIdentified>
+      <ItemEffects />
+      <ItemName>Iron Leggings</ItemName>
+      <Type>Gloves</Type>
+      <UnidentifiedDescription />
+      <Use>Equipable</Use>
+      <Weight>0</Weight>
+      <CoveredAreas />
+      <DamageReductionTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <DamageResistanceTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <DefensiveBonus>0</DefensiveBonus>
+      <OffensiveBonus>0</OffensiveBonus>
+      <StaminaRequirement>0</StaminaRequirement>
+    </Item>
+    <Item>
+      <Count>1</Count>
+      <Description i:nil="true" />
+      <Enchantments xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <IsEquipped>true</IsEquipped>
+      <IsIdentified>true</IsIdentified>
+      <ItemEffects />
+      <ItemName>Jewel of Protection</ItemName>
+      <Type>Gloves</Type>
+      <UnidentifiedDescription />
+      <Use>Equipable</Use>
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <Count>4</Count>
+      <Description i:nil="true" />
+      <Enchantments xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <IsEquipped>false</IsEquipped>
+      <IsIdentified>true</IsIdentified>
+      <ItemEffects />
+      <ItemName>Sterling Rubel</ItemName>
+      <Type>Gloves</Type>
+      <UnidentifiedDescription />
+      <Use>Equipable</Use>
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <Count>4</Count>
+      <Description i:nil="true" />
+      <Enchantments xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <IsEquipped>false</IsEquipped>
+      <IsIdentified>true</IsIdentified>
+      <ItemEffects />
+      <ItemName>Electrum Crown</ItemName>
+      <Type>Gloves</Type>
+      <UnidentifiedDescription />
+      <Use>Equipable</Use>
+      <Weight>0</Weight>
+    </Item>
+  </Inventory>
+  <Name>Soralii</Name>
+  <Skills>
+    <ArmorSkill>7</ArmorSkill>
+    <EnduranceSkill>6</EnduranceSkill>
+    <HPSkill>8</HPSkill>
+    <PerceptionSkill>1</PerceptionSkill>
+    <ReflexSkill>0</ReflexSkill>
+  </Skills>
+  <Spells>
+    <Spell>
+      <Description i:nil="true" />
+      <GoogleSheetID i:nil="true" />
+      <SpellCost>0</SpellCost>
+      <SpellEffects xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <SpellName>Great Heal</SpellName>
+      <SpellWeapons xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+    </Spell>
+    <Spell>
+      <Description i:nil="true" />
+      <GoogleSheetID i:nil="true" />
+      <SpellCost>0</SpellCost>
+      <SpellEffects xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <SpellName>Channelling Burn</SpellName>
+      <SpellWeapons xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+    </Spell>
+  </Spells>
+  <Stamina>600</Stamina>
+  <Statistics>
+    <Charisma>8</Charisma>
+    <Constitution>17</Constitution>
+    <Dexterity>10</Dexterity>
+    <Intelligence>8</Intelligence>
+    <Strength>16</Strength>
+    <Wisdom>16</Wisdom>
+  </Statistics>
+</Character>

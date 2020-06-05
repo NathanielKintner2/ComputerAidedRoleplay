@@ -1,0 +1,12 @@
+@damageType strike
+@damageType strike
+@damageType strike
+feint
+parry
+brute force
+interta conserve
+prejudicial bane of type @characterType cast
+rewarding blow of type @positiveEffect cast
+rewarding blow of type @positiveEffect cast
+cursing blow of type @positiveEffect cast
+cursing blow of type @positiveEffect cast

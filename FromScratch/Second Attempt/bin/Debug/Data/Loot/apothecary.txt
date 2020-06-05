@@ -1,0 +1,10 @@
+standard @simplePotion%standard @simplePotion%minor @simplePotion%minor @advancedPotion
+standard @simplePotion%standard @simplePotion%minor @simplePotion%minor @advancedPotion
+@apothecary%standard @simplePotion
+@apothecary%standard @simplePotion
+@apothecary%standard @simplePotion
+@apothecary%minor @simplePotion
+@apothecary%minor @simplePotion
+@apothecary%standard @advancedPotion
+@apothecary%minor @advancedPotion
+@apothecary%minor @advancedPotion

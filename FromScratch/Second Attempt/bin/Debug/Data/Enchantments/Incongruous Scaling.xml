@@ -1,0 +1,57 @@
+<IfElseLogic xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt.EnchantmentLogic">
+  <conditions xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:anyType i:type="SourceCheck">
+      <SourceType>EffectCheck</SourceType>
+      <logicType>SourceCheck</logicType>
+      <name i:nil="true" />
+    </d2p1:anyType>
+    <d2p1:anyType i:type="EffectTypeCheck">
+      <damType i:nil="true" />
+      <effTag i:nil="true" />
+      <effType>Effect</effType>
+      <logicType>EffectTypeCheck</logicType>
+      <name i:nil="true" />
+    </d2p1:anyType>
+  </conditions>
+  <elseResults xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <ifResults xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:anyType i:type="ReturnValue">
+      <logicType>ReturnValue</logicType>
+      <name i:nil="true" />
+      <valueToReturn i:type="MathLogic">
+        <left i:type="ParamReader">
+          <Branch1>Character</Branch1>
+          <Branch2>Parent</Branch2>
+          <Branch3>ScalingStat</Branch3>
+          <Branch4 />
+          <logicType>ParamReader</logicType>
+          <name i:nil="true" />
+        </left>
+        <logicType>MathLogic</logicType>
+        <name i:nil="true" />
+        <operation>Multiply</operation>
+        <right i:type="GetVariable">
+          <logicType>GetVariable</logicType>
+          <name i:nil="true" />
+          <varName>Power</varName>
+        </right>
+      </valueToReturn>
+    </d2p1:anyType>
+  </ifResults>
+  <logicType>IfElseLogic</logicType>
+  <name>Incongruous Scaling</name>
+  <variables xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:ArrayOfanyType>
+      <d2p1:anyType xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:string">Effect</d2p1:anyType>
+      <d2p1:anyType xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:double">0</d2p1:anyType>
+    </d2p1:ArrayOfanyType>
+    <d2p1:ArrayOfanyType>
+      <d2p1:anyType xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:string">ScalingStat</d2p1:anyType>
+      <d2p1:anyType xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:double">0</d2p1:anyType>
+    </d2p1:ArrayOfanyType>
+    <d2p1:ArrayOfanyType>
+      <d2p1:anyType xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:string">Power</d2p1:anyType>
+      <d2p1:anyType xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:double">0</d2p1:anyType>
+    </d2p1:ArrayOfanyType>
+  </variables>
+</IfElseLogic>

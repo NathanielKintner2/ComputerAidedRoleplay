@@ -1,0 +1,28 @@
+<Spell xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt">
+  <Description />
+  <GoogleSheetID>1I2MJcUjXVGeL_OZIBJH3aoYd2ubnzQf8X8Qm4lYYHqE</GoogleSheetID>
+  <SpellCost>25</SpellCost>
+  <SpellEffects xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:KeyValueOfEffectTupleOfdoubledoubledoubleYn0NQ6XL>
+      <d2p1:Key>
+        <damageType i:nil="true" />
+        <deterioration>1</deterioration>
+        <effectLength>-3</effectLength>
+        <effectStrength>3</effectStrength>
+        <effectTag>Bleed</effectTag>
+        <effectTarget i:nil="true" />
+        <effectTypes>
+          <EffectHolder.EffectType>Regeneration</EffectHolder.EffectType>
+        </effectTypes>
+        <isPermanent>false</isPermanent>
+      </d2p1:Key>
+      <d2p1:Value xmlns:d4p1="http://schemas.datacontract.org/2004/07/System">
+        <d4p1:m_Item1>0.45</d4p1:m_Item1>
+        <d4p1:m_Item2>0</d4p1:m_Item2>
+        <d4p1:m_Item3>0</d4p1:m_Item3>
+      </d2p1:Value>
+    </d2p1:KeyValueOfEffectTupleOfdoubledoubledoubleYn0NQ6XL>
+  </SpellEffects>
+  <SpellName>Seal Wound</SpellName>
+  <SpellWeapons xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+</Spell>

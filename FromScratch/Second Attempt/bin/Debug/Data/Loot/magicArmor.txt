@@ -1,0 +1,4 @@
+@armor of tier @d4 @armorEnchantment
+tier @d4 @armorEnchantment_ing @armor
+@armor of tier @d4 @generalEnchantment
+tier @d4 @generalEnchantment_ing @armor

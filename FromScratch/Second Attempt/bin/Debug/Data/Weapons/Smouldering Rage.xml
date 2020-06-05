@@ -1,0 +1,32 @@
+<Weapon xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt">
+  <Count>0</Count>
+  <Description>I said biiiiiiiiiitch</Description>
+  <Enchantments xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <IsEquipped>false</IsEquipped>
+  <IsIdentified>false</IsIdentified>
+  <ItemEffects />
+  <ItemName>Smouldering Rage</ItemName>
+  <Type>Gloves</Type>
+  <UnidentifiedDescription i:nil="true" />
+  <Use>Equipable</Use>
+  <Weight>0</Weight>
+  <BlockingDifficulty>100</BlockingDifficulty>
+  <DamageTypes xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d2p1:Key>Heat</d2p1:Key>
+      <d2p1:Value>0.1</d2p1:Value>
+    </d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+  </DamageTypes>
+  <DefensiveBonus>0</DefensiveBonus>
+  <ExcessStrengthMultiplier>0</ExcessStrengthMultiplier>
+  <OffensiveBonus>75</OffensiveBonus>
+  <ParryBreak>100</ParryBreak>
+  <ParryStrength>0</ParryStrength>
+  <StaminaRequirement>5</StaminaRequirement>
+  <WeaponTypes>
+    <Utilities.WeaponType>Ranged</Utilities.WeaponType>
+    <Utilities.WeaponType>Curse</Utilities.WeaponType>
+    <Utilities.WeaponType>SpiritSpell</Utilities.WeaponType>
+    <Utilities.WeaponType>Innate</Utilities.WeaponType>
+  </WeaponTypes>
+</Weapon>

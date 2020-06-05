@@ -1,0 +1,3 @@
+@legendaryLoot
+@masterworkArmor
+@epicLoot

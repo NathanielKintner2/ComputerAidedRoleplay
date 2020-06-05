@@ -1,0 +1,14 @@
+battle scythe
+greataxe
+maul
+rapier
+scimitar
+flail
+recurve bow
+composite bow
+halberd
+pike
+javelin
+light crossbow
+heavy crossbow
+repeating crossbow

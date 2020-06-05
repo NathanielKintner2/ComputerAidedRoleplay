@@ -1,0 +1,12 @@
+@majorLoot
+@moderateLoot%@excellentLoot
+greater @simplePotion%@moderateLoot%@moderateLoot
+standard @advancedPotion%@moderateLoot%@moderateLoot
+greater @advancedPotion%@minorLoot%@moderateLoot
+@magicWeapon
+@magicShield
+@heavyArmor%@moderateLoot
+@magicTrinket
+@magicTrinket
+@d6 crowns
+Tier @d4 @magicItem of Tier @d4 @spell

@@ -1,0 +1,6 @@
+@warmColor potion of healing
+@warmColor potion of healing
+@brightColor potion of stamina
+@coolColor potion of rejuvenation
+@darkColor potion of seal wounds
+@darkColor potion of regrowth

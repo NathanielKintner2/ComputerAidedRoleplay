@@ -1,0 +1,18 @@
+@element bolt
+@element ball
+@element cone
+enhance @stat
+enhance @stat
+enhance @stat
+enhance @skill
+enhance @skill
+enhance @skill
+heal
+cure wound
+regrow
+identify
+telekinesis
+bedazzle
+abjure
+wind
+fly

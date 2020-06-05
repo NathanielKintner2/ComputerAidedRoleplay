@@ -1,0 +1,3 @@
+@descriptor @magicItemType
+@color @magicItemType
+@descriptor @color @magicItemType

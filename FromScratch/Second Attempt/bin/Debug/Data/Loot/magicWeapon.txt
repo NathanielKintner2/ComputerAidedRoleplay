@@ -1,0 +1,6 @@
+@weapon of tier @d4 @weaponEnchantment
+tier @d4 @weaponEnchantment_ing @weapon
+@weapon of tier @d4 @weaponEnchantment
+tier @d4 @weaponEnchantment_ing @weapon
+@weapon of tier @d4 @generalEnchantment
+tier @d4 @generalEnchantment_ing @weapon

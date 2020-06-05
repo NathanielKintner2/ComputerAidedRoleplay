@@ -1,0 +1,14 @@
+@excellentLoot
+@minorLoot%@moderateLoot
+@minorLoot%@moderateLoot
+@minorLoot%@moderateLoot
+standard @simplePotion
+standard @simplePotion
+minor @advancedPotion
+tier @d4 scroll of identify
+@weapon
+@shield
+@armorPiece
+@lightArmor
+1 crown
+@trinket worth @d4 crowns

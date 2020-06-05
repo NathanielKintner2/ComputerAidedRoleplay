@@ -1,0 +1,9 @@
+slash
+pierce
+crush
+heat
+cold
+shock
+mental
+impact
+soul

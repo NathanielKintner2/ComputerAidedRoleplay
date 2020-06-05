@@ -1,0 +1,8 @@
+<Shield xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt">
+  <Coverage>0.25</Coverage>
+  <DefensiveModifier>1</DefensiveModifier>
+  <Description>Goes well with swash.</Description>
+  <OffensiveModifier>0</OffensiveModifier>
+  <ShieldName>Buckler</ShieldName>
+  <ShieldWeight>1</ShieldWeight>
+</Shield>

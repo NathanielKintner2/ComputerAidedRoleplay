@@ -1,0 +1,58 @@
+<Character xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt">
+  <CharTypeTag />
+  <CombatStuff i:nil="true" />
+  <CreatureTypes>
+    <Utilities.CreatureType>Natural</Utilities.CreatureType>
+    <Utilities.CreatureType>Elemental</Utilities.CreatureType>
+    <Utilities.CreatureType>Spirit</Utilities.CreatureType>
+  </CreatureTypes>
+  <Description>A fiery bird</Description>
+  <Effects />
+  <Enchantments xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <GoogleNinjaNotesInbound i:nil="true" />
+  <GoogleNinjaNotesOutbound i:nil="true" />
+  <GoogleNinjaNotesRebound i:nil="true" />
+  <HitPoints>0</HitPoints>
+  <Inventory>
+    <Item i:type="Weapon">
+      <Count>1</Count>
+      <Description i:nil="true" />
+      <Enchantments xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <IsEquipped>true</IsEquipped>
+      <IsIdentified>true</IsIdentified>
+      <ItemEffects />
+      <ItemName>Firebreathing</ItemName>
+      <Type>Gloves</Type>
+      <UnidentifiedDescription />
+      <Use>Equipable</Use>
+      <Weight>0</Weight>
+      <BlockingDifficulty>0</BlockingDifficulty>
+      <DamageTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <DefensiveBonus>0</DefensiveBonus>
+      <ExcessStrengthMultiplier>0</ExcessStrengthMultiplier>
+      <OffensiveBonus>0</OffensiveBonus>
+      <ParryBreak>0</ParryBreak>
+      <ParryStrength>0</ParryStrength>
+      <StaminaRequirement>0</StaminaRequirement>
+      <WeaponTypes />
+    </Item>
+  </Inventory>
+  <Name>Phoenix</Name>
+  <Skills>
+    <ArmorSkill>0</ArmorSkill>
+    <EnduranceSkill>7</EnduranceSkill>
+    <HPSkill>3</HPSkill>
+    <PerceptionSkill>5</PerceptionSkill>
+    <ReflexSkill>5</ReflexSkill>
+  </Skills>
+  <Spells />
+  <Stamina>0</Stamina>
+  <Statistics>
+    <Charisma>0</Charisma>
+    <Constitution>14</Constitution>
+    <Dexterity>12</Dexterity>
+    <Intelligence>14</Intelligence>
+    <Strength>8</Strength>
+    <Wisdom>10</Wisdom>
+  </Statistics>
+</Character>

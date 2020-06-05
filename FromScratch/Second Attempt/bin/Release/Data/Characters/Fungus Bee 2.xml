@@ -1,0 +1,87 @@
+<Character xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt">
+  <Armor>
+    <ArmorName>Light Leather</ArmorName>
+    <DamageReductionTypes xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+    <DamageResistanceTypes xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+        <d3p1:Key>Slash</d3p1:Key>
+        <d3p1:Value>0.2</d3p1:Value>
+      </d3p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d3p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+        <d3p1:Key>Pierce</d3p1:Key>
+        <d3p1:Value>0.2</d3p1:Value>
+      </d3p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d3p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+        <d3p1:Key>Crush</d3p1:Key>
+        <d3p1:Value>0.2</d3p1:Value>
+      </d3p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d3p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+        <d3p1:Key>Cold</d3p1:Key>
+        <d3p1:Value>0.2</d3p1:Value>
+      </d3p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+    </DamageResistanceTypes>
+    <DefensiveBonus>0</DefensiveBonus>
+    <Description />
+    <OffensiveBonus>0</OffensiveBonus>
+    <StaminaRequirement>5</StaminaRequirement>
+    <Weight>2</Weight>
+  </Armor>
+  <CombatStuff>
+    <CombatDB>0</CombatDB>
+    <CombatOB>0</CombatOB>
+    <CombatShield i:nil="true" />
+    <CombatWeapon i:nil="true" />
+    <CurrentlyInCombat>false</CurrentlyInCombat>
+  </CombatStuff>
+  <HitPoints>0</HitPoints>
+  <Name>Fungus Bee 2</Name>
+  <Shields>
+    <Shield>
+      <Coverage>0</Coverage>
+      <DefensiveModifier>0</DefensiveModifier>
+      <Description>For the Shieldless wonders of the world</Description>
+      <OffensiveModifier>0</OffensiveModifier>
+      <ShieldName>No Shield</ShieldName>
+      <ShieldWeight>0</ShieldWeight>
+    </Shield>
+  </Shields>
+  <Skills>
+    <ArmorSkill>3</ArmorSkill>
+    <EnduranceSkill>2</EnduranceSkill>
+    <HPSkill>2</HPSkill>
+    <ReflexSkill>2</ReflexSkill>
+  </Skills>
+  <Stamina>0</Stamina>
+  <Statistics>
+    <Charisma>6</Charisma>
+    <Constitution>12</Constitution>
+    <Dexterity>15</Dexterity>
+    <Intelligence>6</Intelligence>
+    <Strength>12</Strength>
+    <Wisdom>6</Wisdom>
+  </Statistics>
+  <Weapons>
+    <Weapon>
+      <BlockingDifficulty>0</BlockingDifficulty>
+      <DamageTypes xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+        <d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+          <d4p1:Key>Slash</d4p1:Key>
+          <d4p1:Value>0.75</d4p1:Value>
+        </d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+        <d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+          <d4p1:Key>Pierce</d4p1:Key>
+          <d4p1:Value>0.25</d4p1:Value>
+        </d4p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      </DamageTypes>
+      <DefensiveBonus>0</DefensiveBonus>
+      <Description>A reggular ol sword for the fighting of the badguys. Also called an arming sword.</Description>
+      <ExcessStrengthMultiplier>0.25</ExcessStrengthMultiplier>
+      <OffensiveBonus>0</OffensiveBonus>
+      <ParryBreak>1</ParryBreak>
+      <ParryStrength>1</ParryStrength>
+      <StaminaRequirement>4</StaminaRequirement>
+      <WeaponName>Short Sword</WeaponName>
+      <Weight>3</Weight>
+    </Weapon>
+  </Weapons>
+</Character>

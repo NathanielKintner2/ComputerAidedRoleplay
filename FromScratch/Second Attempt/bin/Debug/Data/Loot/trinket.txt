@@ -1,0 +1,6 @@
+@color @trinketType
+@descriptor @trinketType
+@material @trinketType
+@descriptor @color @trinketType
+@descriptor @material @trinketType
+@color @material @trinketType

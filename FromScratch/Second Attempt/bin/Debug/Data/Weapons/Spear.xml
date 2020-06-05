@@ -1,0 +1,32 @@
+<Weapon xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt">
+  <Count>0</Count>
+  <Description>Used by many people at once</Description>
+  <Enchantments xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <IsEquipped>false</IsEquipped>
+  <IsIdentified>false</IsIdentified>
+  <ItemEffects />
+  <ItemName>Spear</ItemName>
+  <Type>Gloves</Type>
+  <UnidentifiedDescription i:nil="true" />
+  <Use>Equipable</Use>
+  <Weight>5</Weight>
+  <BlockingDifficulty>0</BlockingDifficulty>
+  <DamageTypes xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d2p1:Key>Pierce</d2p1:Key>
+      <d2p1:Value>1.5</d2p1:Value>
+    </d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+  </DamageTypes>
+  <DefensiveBonus>0</DefensiveBonus>
+  <ExcessStrengthMultiplier>0.25</ExcessStrengthMultiplier>
+  <OffensiveBonus>6</OffensiveBonus>
+  <ParryBreak>1.75</ParryBreak>
+  <ParryStrength>1</ParryStrength>
+  <StaminaRequirement>4</StaminaRequirement>
+  <WeaponTypes>
+    <Utilities.WeaponType>Melee</Utilities.WeaponType>
+    <Utilities.WeaponType>Physical</Utilities.WeaponType>
+    <Utilities.WeaponType>Spear</Utilities.WeaponType>
+    <Utilities.WeaponType>ThrownSpear</Utilities.WeaponType>
+  </WeaponTypes>
+</Weapon>

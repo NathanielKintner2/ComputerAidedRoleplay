@@ -1,0 +1,4 @@
+@trinket of tier @d4 @generalEnchantment
+tier @d4 @generalEnchantment_ing @trinket
+@trinket of tier @d4 @trinketEnchantment
+tier @d4 @trinketEnchantment_ing @trinket

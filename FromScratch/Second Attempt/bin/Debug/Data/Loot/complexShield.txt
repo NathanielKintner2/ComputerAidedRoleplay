@@ -1,0 +1,4 @@
+tier @d6 @shieldEnchantment_ing @shield of tier @d6 @shieldEnchantment
+tier @d6 @generalEnchantment_ing @shield of tier @d6 @shieldEnchantment
+tier @d6 @shieldEnchantment_ing @shield of tier @d6 @generalEnchantment
+tier @d6 @generalEnchantment_ing @shield of tier @d6 @generalEnchantment

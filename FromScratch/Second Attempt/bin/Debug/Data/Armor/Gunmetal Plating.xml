@@ -1,0 +1,66 @@
+<Armor xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt">
+  <Count>0</Count>
+  <Description />
+  <Enchantments xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <IsEquipped>false</IsEquipped>
+  <IsIdentified>false</IsIdentified>
+  <ItemEffects />
+  <ItemName>Gunmetal Plating</ItemName>
+  <Type>Gloves</Type>
+  <UnidentifiedDescription i:nil="true" />
+  <Use>Equipable</Use>
+  <Weight>5</Weight>
+  <CoveredAreas>
+    <Utilities.BodyParts>RightFoot</Utilities.BodyParts>
+    <Utilities.BodyParts>LeftFoot</Utilities.BodyParts>
+    <Utilities.BodyParts>RightHand</Utilities.BodyParts>
+    <Utilities.BodyParts>LeftHand</Utilities.BodyParts>
+    <Utilities.BodyParts>RightCalf</Utilities.BodyParts>
+    <Utilities.BodyParts>LeftCalf</Utilities.BodyParts>
+    <Utilities.BodyParts>RightArm</Utilities.BodyParts>
+    <Utilities.BodyParts>LeftArm</Utilities.BodyParts>
+    <Utilities.BodyParts>RightThigh</Utilities.BodyParts>
+    <Utilities.BodyParts>LeftThigh</Utilities.BodyParts>
+    <Utilities.BodyParts>RightShoulder</Utilities.BodyParts>
+    <Utilities.BodyParts>LeftShoulder</Utilities.BodyParts>
+    <Utilities.BodyParts>Gut</Utilities.BodyParts>
+    <Utilities.BodyParts>Groin</Utilities.BodyParts>
+    <Utilities.BodyParts>Chest</Utilities.BodyParts>
+    <Utilities.BodyParts>Head</Utilities.BodyParts>
+    <Utilities.BodyParts>Neck</Utilities.BodyParts>
+  </CoveredAreas>
+  <DamageReductionTypes xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <DamageResistanceTypes xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d2p1:Key>Slash</d2p1:Key>
+      <d2p1:Value>0.5</d2p1:Value>
+    </d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+    <d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d2p1:Key>Pierce</d2p1:Key>
+      <d2p1:Value>0.5</d2p1:Value>
+    </d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+    <d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d2p1:Key>Crush</d2p1:Key>
+      <d2p1:Value>0.4</d2p1:Value>
+    </d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+    <d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d2p1:Key>Heat</d2p1:Key>
+      <d2p1:Value>0.4</d2p1:Value>
+    </d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+    <d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d2p1:Key>Cold</d2p1:Key>
+      <d2p1:Value>0.4</d2p1:Value>
+    </d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+    <d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d2p1:Key>Shock</d2p1:Key>
+      <d2p1:Value>0.2</d2p1:Value>
+    </d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+    <d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d2p1:Key>Impact</d2p1:Key>
+      <d2p1:Value>0.1</d2p1:Value>
+    </d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+  </DamageResistanceTypes>
+  <DefensiveBonus>1</DefensiveBonus>
+  <OffensiveBonus>-1</OffensiveBonus>
+  <StaminaRequirement>1.2</StaminaRequirement>
+</Armor>

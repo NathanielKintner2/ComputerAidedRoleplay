@@ -1,0 +1,18 @@
+<Weapon xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt">
+  <BlockingDifficulty>0</BlockingDifficulty>
+  <DamageTypes xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d2p1:Key>Crush</d2p1:Key>
+      <d2p1:Value>3</d2p1:Value>
+    </d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+  </DamageTypes>
+  <DefensiveBonus>0</DefensiveBonus>
+  <Description />
+  <ExcessStrengthMultiplier>0.5</ExcessStrengthMultiplier>
+  <OffensiveBonus>0</OffensiveBonus>
+  <ParryBreak>5</ParryBreak>
+  <ParryStrength>3</ParryStrength>
+  <StaminaRequirement>12</StaminaRequirement>
+  <WeaponName>Maul</WeaponName>
+  <Weight>9</Weight>
+</Weapon>

@@ -1,0 +1,6 @@
+robe
+gambison
+padded coat
+soft leather armor
+hard leather armor
+quilted armor

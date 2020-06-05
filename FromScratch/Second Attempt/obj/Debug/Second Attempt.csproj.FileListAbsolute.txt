@@ -1,0 +1,639 @@
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Aftermath.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.CharCreator.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Combat.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.CombatDeclarations.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.CombatEntry.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EffectAdder.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Properties.Resources.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ShieldAssigner.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ShieldCreator.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.StartupScreen.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.WeaponAssignment.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.WeaponCreator.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second Attempt.csproj.GenerateResource.Cache
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.MasterDeclarations.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Master_Attacker.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.SingleAttack.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.AfterCrits.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Crit.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.MasterCrit.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\bin\Debug\CAR.exe.config
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\bin\Debug\CAR.exe
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\bin\Debug\CAR.pdb
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\CAR.exe
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\CAR.pdb
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\bin\Debug\CAR.exe.manifest
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\bin\Debug\CAR.application
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\CAR.exe.manifest
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\CAR.application
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second Attempt.csprojResolveAssemblyReference.cache
+C:\Users\Guys\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\bin\Debug\CAR.exe.config
+C:\Users\Guys\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\CAR.exe
+C:\Users\Guys\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\CAR.pdb
+C:\Users\Guys\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\bin\Debug\CAR.exe.manifest
+C:\Users\Guys\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\bin\Debug\CAR.application
+C:\Users\Guys\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\bin\Debug\CAR.exe
+C:\Users\Guys\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\bin\Debug\CAR.pdb
+C:\Users\Guys\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second Attempt.csprojResolveAssemblyReference.cache
+C:\Users\Guys\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.AfterCrits.resources
+C:\Users\Guys\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Aftermath.resources
+C:\Users\Guys\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.CharCreator.resources
+C:\Users\Guys\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Combat.resources
+C:\Users\Guys\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.CombatDeclarations.resources
+C:\Users\Guys\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.CombatEntry.resources
+C:\Users\Guys\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Crit.resources
+C:\Users\Guys\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EffectAdder.resources
+C:\Users\Guys\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.InCombatEffects.resources
+C:\Users\Guys\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Master_Attacker.resources
+C:\Users\Guys\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.MasterCrit.resources
+C:\Users\Guys\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.MasterDeclarations.resources
+C:\Users\Guys\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Properties.Resources.resources
+C:\Users\Guys\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ShieldAssigner.resources
+C:\Users\Guys\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ShieldCreator.resources
+C:\Users\Guys\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.SingleAttack.resources
+C:\Users\Guys\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.StartupScreen.resources
+C:\Users\Guys\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.WeaponAssignment.resources
+C:\Users\Guys\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.WeaponCreator.resources
+C:\Users\Guys\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second Attempt.csproj.GenerateResource.Cache
+C:\Users\Guys\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\CAR.exe.manifest
+C:\Users\Guys\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\CAR.application
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\Second_Attempt.AttackChart.resources
+E:\FromUsersAaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\bin\Debug\CAR.exe.config
+E:\FromUsersAaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\CAR.exe
+E:\FromUsersAaron\Documents\Visual Studio 2013\Projects\FromScratch\Second Attempt\obj\Debug\CAR.pdb
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\bin\Debug\CAR.exe.config
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\CAR.exe
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\CAR.pdb
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second Attempt.csprojResolveAssemblyReference.cache
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.AfterCrits.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Aftermath.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.AttackChart.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.CharCreator.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Combat.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.CombatDeclarations.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.CombatEntry.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EffectAdder.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Master_Attacker.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.MasterCrit.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.MasterDeclarations.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Properties.Resources.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ShieldAssigner.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ShieldCreator.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.SingleAttack.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.StartupScreen.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.WeaponAssignment.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.WeaponCreator.resources
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second Attempt.csproj.GenerateResource.Cache
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\bin\Debug\CAR.exe
+C:\Users\GuysNonAdmin\Desktop\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\bin\Debug\CAR.pdb
+F:\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\bin\Debug\CAR.exe.config
+F:\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\CAR.exe
+F:\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\CAR.pdb
+F:\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\bin\Debug\CAR.exe
+F:\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\bin\Debug\CAR.pdb
+F:\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second Attempt.csprojResolveAssemblyReference.cache
+F:\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.AfterCrits.resources
+F:\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Aftermath.resources
+F:\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.AttackChart.resources
+F:\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.CharCreator.resources
+F:\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Combat.resources
+F:\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.CombatDeclarations.resources
+F:\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.CombatEntry.resources
+F:\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EffectAdder.resources
+F:\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Master_Attacker.resources
+F:\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.MasterCrit.resources
+F:\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.MasterDeclarations.resources
+F:\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Properties.Resources.resources
+F:\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ShieldAssigner.resources
+F:\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ShieldCreator.resources
+F:\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.SingleAttack.resources
+F:\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.StartupScreen.resources
+F:\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.WeaponAssignment.resources
+F:\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.WeaponCreator.resources
+F:\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second Attempt.csproj.GenerateResource.Cache
+C:\Users\Nathaniel\Desktop\WithNickCAR\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\bin\Debug\CAR.exe.config
+C:\Users\Nathaniel\Desktop\WithNickCAR\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\CAR.exe
+C:\Users\Nathaniel\Desktop\WithNickCAR\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\CAR.pdb
+C:\Users\Nathaniel\Desktop\WithNickCAR\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\bin\Debug\CAR.exe
+C:\Users\Nathaniel\Desktop\WithNickCAR\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\bin\Debug\CAR.pdb
+C:\Users\Nathaniel\Desktop\WithNickCAR\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.AfterCrits.resources
+C:\Users\Nathaniel\Desktop\WithNickCAR\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Aftermath.resources
+C:\Users\Nathaniel\Desktop\WithNickCAR\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.AttackChart.resources
+C:\Users\Nathaniel\Desktop\WithNickCAR\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.CharCreator.resources
+C:\Users\Nathaniel\Desktop\WithNickCAR\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Combat.resources
+C:\Users\Nathaniel\Desktop\WithNickCAR\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.CombatDeclarations.resources
+C:\Users\Nathaniel\Desktop\WithNickCAR\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.CombatEntry.resources
+C:\Users\Nathaniel\Desktop\WithNickCAR\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EffectAdder.resources
+C:\Users\Nathaniel\Desktop\WithNickCAR\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Master_Attacker.resources
+C:\Users\Nathaniel\Desktop\WithNickCAR\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.MasterCrit.resources
+C:\Users\Nathaniel\Desktop\WithNickCAR\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.MasterDeclarations.resources
+C:\Users\Nathaniel\Desktop\WithNickCAR\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Properties.Resources.resources
+C:\Users\Nathaniel\Desktop\WithNickCAR\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ShieldAssigner.resources
+C:\Users\Nathaniel\Desktop\WithNickCAR\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ShieldCreator.resources
+C:\Users\Nathaniel\Desktop\WithNickCAR\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.SingleAttack.resources
+C:\Users\Nathaniel\Desktop\WithNickCAR\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.StartupScreen.resources
+C:\Users\Nathaniel\Desktop\WithNickCAR\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.WeaponAssignment.resources
+C:\Users\Nathaniel\Desktop\WithNickCAR\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.WeaponCreator.resources
+C:\Users\Nathaniel\Desktop\WithNickCAR\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second Attempt.csproj.GenerateResource.Cache
+C:\Users\Nathaniel\Desktop\WithNickCAR\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second Attempt.csprojResolveAssemblyReference.cache
+C:\Users\Nathaniel\Desktop\WithNickCAR\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.BattleTesting.resources
+C:\Users\Guys\Desktop\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\bin\Debug\CAR.exe.config
+C:\Users\Guys\Desktop\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\bin\Debug\CAR.exe
+C:\Users\Guys\Desktop\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\bin\Debug\CAR.pdb
+C:\Users\Guys\Desktop\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second Attempt.csprojAssemblyReference.cache
+C:\Users\Guys\Desktop\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.AfterCrits.resources
+C:\Users\Guys\Desktop\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.AttackChart.resources
+C:\Users\Guys\Desktop\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.BattleTesting.resources
+C:\Users\Guys\Desktop\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.CharCreator.resources
+C:\Users\Guys\Desktop\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Combat.resources
+C:\Users\Guys\Desktop\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.CombatDeclarations.resources
+C:\Users\Guys\Desktop\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.CombatEntry.resources
+C:\Users\Guys\Desktop\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EffectAdder.resources
+C:\Users\Guys\Desktop\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Master_Attacker.resources
+C:\Users\Guys\Desktop\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.MasterCrit.resources
+C:\Users\Guys\Desktop\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.MasterDeclarations.resources
+C:\Users\Guys\Desktop\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Properties.Resources.resources
+C:\Users\Guys\Desktop\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ShieldAssigner.resources
+C:\Users\Guys\Desktop\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ShieldCreator.resources
+C:\Users\Guys\Desktop\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.SingleAttack.resources
+C:\Users\Guys\Desktop\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.StartupScreen.resources
+C:\Users\Guys\Desktop\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.WeaponAssignment.resources
+C:\Users\Guys\Desktop\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.WeaponCreator.resources
+C:\Users\Guys\Desktop\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second Attempt.csproj.GenerateResource.cache
+C:\Users\Guys\Desktop\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second Attempt.csproj.CoreCompileInputs.cache
+C:\Users\Guys\Desktop\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\CAR.exe
+C:\Users\Guys\Desktop\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\CAR.pdb
+C:\Users\Guys\Desktop\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ArmorAssigner.resources
+C:\Users\Guys\Desktop\RPG\THE CURRENT EXPERIMENT\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ArmorCreator.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\CAR.exe.config
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\CAR.exe
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\CAR.pdb
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second Attempt.csprojResolveAssemblyReference.cache
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.AfterCrits.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ArmorAssigner.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ArmorCreator.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.AttackChart.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.BattleTesting.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.CharCreator.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Combat.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.CombatDeclarations.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.CombatEntry.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EffectAdder.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Master_Attacker.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.MasterCrit.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.MasterDeclarations.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Properties.Resources.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ShieldAssigner.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ShieldCreator.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.SingleAttack.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.StartupScreen.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.WeaponAssignment.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.WeaponCreator.resources
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second Attempt.csproj.GenerateResource.Cache
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\CAR.exe
+C:\Users\Nathaniel\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\CAR.pdb
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\CAR.exe.config
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\CAR.exe
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\CAR.pdb
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\CAR.exe
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\CAR.pdb
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.AfterCrits.resources
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ArmorAssigner.resources
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ArmorCreator.resources
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.AttackChart.resources
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.BattleTesting.resources
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.CharCreator.resources
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Combat.resources
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.CombatDeclarations.resources
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.CombatEntry.resources
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EffectAdder.resources
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Master_Attacker.resources
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.MasterCrit.resources
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.MasterDeclarations.resources
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Properties.Resources.resources
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ShieldAssigner.resources
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ShieldCreator.resources
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.SingleAttack.resources
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.StartupScreen.resources
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.WeaponAssignment.resources
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.WeaponCreator.resources
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second Attempt.csproj.GenerateResource.Cache
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\credentials.json
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\Google.Apis.Auth.dll
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\Google.Apis.Core.dll
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\Google.Apis.dll
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\Google.Apis.Sheets.v4.dll
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\log4net.dll
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\System.IO.dll
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\System.Net.Http.dll
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\System.Runtime.dll
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\System.Threading.Tasks.dll
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\Zlib.Portable.dll
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\Google.Apis.pdb
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\Google.Apis.xml
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\Google.Apis.Auth.xml
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\Google.Apis.Core.pdb
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\Google.Apis.Core.xml
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\Google.Apis.Sheets.v4.pdb
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\Google.Apis.Sheets.v4.xml
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\log4net.xml
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\System.IO.xml
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\System.Net.Http.xml
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\System.Runtime.xml
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\System.Threading.Tasks.xml
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\Zlib.Portable.xml
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\credentialsagain.json
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\bin\Debug\credentialsdrive.json
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second Attempt.csprojResolveAssemblyReference.cache
+C:\Users\GuysAdmin\Desktop\RPG\CAR_SIMPLIFIED\FromScratch\Second Attempt\obj\Debug\Second_Attempt.LoadingBlop.resources
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\CAR.exe.config
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\CAR.exe
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\CAR.pdb
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\credentials.json
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\credentialsagain.json
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\credentialsdrive.json
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\CAR.exe
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\CAR.pdb
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\Google.Apis.Auth.dll
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\Google.Apis.Core.dll
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\Google.Apis.dll
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\Google.Apis.Sheets.v4.dll
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\log4net.dll
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\System.IO.dll
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\System.Net.Http.dll
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\System.Runtime.dll
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\System.Threading.Tasks.dll
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\Zlib.Portable.dll
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\Google.Apis.pdb
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\Google.Apis.xml
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\Google.Apis.Auth.xml
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\Google.Apis.Core.pdb
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\Google.Apis.Core.xml
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\Google.Apis.Sheets.v4.pdb
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\Google.Apis.Sheets.v4.xml
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\log4net.xml
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\System.IO.xml
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\System.Net.Http.xml
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\System.Runtime.xml
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\System.Threading.Tasks.xml
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\bin\Debug\Zlib.Portable.xml
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\Second Attempt.csprojResolveAssemblyReference.cache
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\Second_Attempt.AfterCrits.resources
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ArmorAssigner.resources
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ArmorCreator.resources
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\Second_Attempt.AttackChart.resources
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\Second_Attempt.BattleTesting.resources
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\Second_Attempt.CharCreator.resources
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Combat.resources
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\Second_Attempt.CombatDeclarations.resources
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\Second_Attempt.CombatEntry.resources
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EffectAdder.resources
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\Second_Attempt.LoadingBlop.resources
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Master_Attacker.resources
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\Second_Attempt.MasterCrit.resources
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\Second_Attempt.MasterDeclarations.resources
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Properties.Resources.resources
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ShieldAssigner.resources
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ShieldCreator.resources
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\Second_Attempt.SingleAttack.resources
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\Second_Attempt.StartupScreen.resources
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\Second_Attempt.WeaponAssignment.resources
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\Second_Attempt.WeaponCreator.resources
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\Second Attempt.csproj.GenerateResource.Cache
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\Second_Attempt.SpellCreator.resources
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\Second_Attempt.SpellCasting.resources
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\Second_Attempt.SpellAssigner.resources
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\Second_Attempt.SpellResults.resources
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.IfElseLogicForm.resources
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.DoubleValueForm.resources
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.PrintMessageForm.resources
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.EqualsForm.resources
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.AddForm.resources
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentCreator.resources
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.GetVariableForm.resources
+C:\Users\GuysAdmin\Desktop\RPG\NOW_WITH_GOOGLE\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.SetVariableForm.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\CAR.exe.config
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\CAR.exe
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\CAR.pdb
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\credentials.json
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\credentialsagain.json
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\credentialsdrive.json
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\CAR.exe
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\CAR.pdb
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.Auth.dll
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.Core.dll
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.dll
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.Sheets.v4.dll
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\log4net.dll
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\System.IO.dll
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\System.Net.Http.dll
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\System.Runtime.dll
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\System.Threading.Tasks.dll
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Zlib.Portable.dll
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.pdb
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.xml
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.Auth.xml
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.Core.pdb
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.Core.xml
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.Sheets.v4.pdb
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.Sheets.v4.xml
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\log4net.xml
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\System.IO.xml
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\System.Net.Http.xml
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\System.Runtime.xml
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\System.Threading.Tasks.xml
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Zlib.Portable.xml
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second Attempt.csprojResolveAssemblyReference.cache
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.AfterCrits.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ArmorAssigner.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ArmorCreator.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.AttackChart.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.BattleTesting.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.CharCreator.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Combat.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.CombatDeclarations.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.CombatEntry.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EffectAdder.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentCreator.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.AddForm.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.DoubleValueForm.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.EqualsForm.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.GetVariableForm.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.IfElseLogicForm.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.PrintMessageForm.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.SetVariableForm.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.LoadingBlop.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Master_Attacker.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.MasterCrit.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.MasterDeclarations.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Properties.Resources.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ShieldAssigner.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ShieldCreator.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.SingleAttack.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.SpellAssigner.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.SpellCasting.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.SpellCreator.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.SpellResults.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.StartupScreen.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.WeaponAssignment.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.WeaponCreator.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second Attempt.csproj.GenerateResource.Cache
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.SourceCheckForm.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.GreaterThanForm.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.Calculables.ParamReaderForm.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.MakeAttackForm.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.EffectTypeCheckForm.resources
+C:\Users\GuysAdmin\Desktop\RPG\ENCHANTMENT_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.ReturnValueForm.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\CAR.exe.config
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\CAR.exe
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\CAR.pdb
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\credentials.json
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\credentialsagain.json
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\credentialsdrive.json
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\CAR.exe
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\CAR.pdb
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.Auth.dll
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.Core.dll
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.dll
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.Sheets.v4.dll
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\log4net.dll
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\System.IO.dll
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\System.Net.Http.dll
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\System.Runtime.dll
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\System.Threading.Tasks.dll
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Zlib.Portable.dll
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.pdb
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.xml
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.Auth.xml
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.Core.pdb
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.Core.xml
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.Sheets.v4.pdb
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Google.Apis.Sheets.v4.xml
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\log4net.xml
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\System.IO.xml
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\System.Net.Http.xml
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\System.Runtime.xml
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\System.Threading.Tasks.xml
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\bin\Debug\Zlib.Portable.xml
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second Attempt.csprojResolveAssemblyReference.cache
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.AfterCrits.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ArmorAssigner.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ArmorCreator.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.AttackChart.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.BattleTesting.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.CharCreator.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Combat.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.CombatDeclarations.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.CombatEntry.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EffectAdder.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentCreator.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.AddForm.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.DoubleValueForm.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.EffectTypeCheckForm.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.EqualsForm.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.GetVariableForm.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.GreaterThanForm.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.Calculables.ParamReaderForm.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.IfElseLogicForm.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.MakeAttackForm.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.PrintMessageForm.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.ReturnValueForm.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.SetVariableForm.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.SourceCheckForm.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.LoadingBlop.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Master_Attacker.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.MasterCrit.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.MasterDeclarations.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Properties.Resources.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ShieldAssigner.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ShieldCreator.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.SingleAttack.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.SpellAssigner.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.SpellCasting.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.SpellCreator.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.SpellResults.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.StartupScreen.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.WeaponAssignment.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.WeaponCreator.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second Attempt.csproj.GenerateResource.Cache
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.CreateEffectForm.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.LootTable.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ItemCreator.resources
+C:\Users\GuysAdmin\Desktop\RPG\FINISHED_FRAMEWORK\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ItemAssigner.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Debug\CAR.exe.config
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\CAR.exe
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\CAR.pdb
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Debug\CAR.exe
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Debug\CAR.pdb
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Debug\log4net.dll
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Debug\Zlib.Portable.dll
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Debug\log4net.xml
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Debug\Zlib.Portable.xml
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.AfterCrits.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ArmorCreator.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.AttackChart.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.BattleTesting.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.CharCreator.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Combat.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.CombatDeclarations.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.CombatEntry.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EffectAdder.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentCreator.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.DoubleValueForm.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.EffectTypeCheckForm.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.GetVariableForm.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.Calculables.ParamReaderForm.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.CreateEffectForm.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.IfElseLogicForm.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.MakeAttackForm.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.PrintMessageForm.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.ReturnValueForm.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.SetVariableForm.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.SourceCheckForm.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ItemAssigner.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ItemCreator.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.LoadingBlop.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.LootTable.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Master_Attacker.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.MasterCrit.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.MasterDeclarations.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.Properties.Resources.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.ShieldCreator.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.SingleAttack.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.SpellAssigner.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.SpellCasting.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.SpellCreator.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.SpellResults.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.StartupScreen.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.WeaponCreator.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second Attempt.csproj.GenerateResource.Cache
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EnchantmentLogic.MathLogicForm.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Debug\ZZZStylePart.html
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Debug\ZZZStyleTest.html
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Debug\HtmlAgilityPack.dll
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Debug\HtmlAgilityPack.xml
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Debug\HTMLPages\CombatTerminal.html
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.EquipStatusChanger.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Debug\HTMLPages\InventoryTerminal.html
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\bin\Debug\HTMLPages\InPipe.html
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second_Attempt.DataExport.resources
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second Attempt.csproj.CAR.exe.config
+C:\Users\GuysAdmin\Documents\GitHub\CAR\FromScratch\Second Attempt\obj\Debug\Second Attempt.csprojResolveAssemblyReference.cache

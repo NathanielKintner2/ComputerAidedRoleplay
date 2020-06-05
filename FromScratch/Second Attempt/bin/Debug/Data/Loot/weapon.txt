@@ -1,0 +1,12 @@
+@color @simpleWeapon
+@descriptor @simpleWeapon
+@material @simpleWeapon
+@descriptor @color @simpleWeapon
+@descriptor @material @simpleWeapon
+@color @material @simpleWeapon
+@color @advancedWeapon
+@descriptor @advancedWeapon
+@material @advancedWeapon
+@descriptor @color @advancedWeapon
+@descriptor @material @advancedWeapon
+@color @material @advancedWeapon

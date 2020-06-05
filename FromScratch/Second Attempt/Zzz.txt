@@ -1,0 +1,342 @@
+﻿	********************************************************
+	todo
+	********************************************************
+
+
+	CODING
+	***********************************
+
+		FORSURE
+
+	isatch upgrades
+		sword, rock throw, message
+	dualikos upgrades
+		mental fortitude(balance?), amulet
+
+	add injuryType reduction to loot table
+
+	create pricing charts
+
+	sword that raises damage when you miss
+
+	style in txt file
+	method to print out:
+		top menu
+		all weapon/item etc urls
+		all character urls
+		all incombatchar urls
+		charsheet with other combatants
+		charsheet with just the character's stuff
+						security issues, man......
+		item/weapon/armor/shield sheets
+
+	
+
+		MAYBE
+	injury list on sheet (only tagged effects?)
+	bodypart tag for effects (2 nerve damage in left forearm)
+
+		HALF-BAKED
+
+
+
+
+
+
+
+
+
+	lotsa combat testing.....
+
+	WRITING	(MOSTLY GAME CONTENT)
+	***********************************
+
+	GLOOMAVEN MECHANICS
+		retaliate
+			actual attack
+		thorns
+			loss of health when striking
+
+		scoundrel
+			positioner
+				next to ally/enemy/isolated
+			armor reduction essentially
+			assassinate
+
+
+
+
+	more spell options, written out. mine from spell law
+
+
+	temporary hitpoints (shield that fades, but like a 'toss shield)
+	prevent bleed spell
+	general prevention spells actually
+	
+
+	need items/enchantments for casters
+
+	ENCHANTMENTS
+		weapons that scale with some stat (int, dex, etc)
+		thorns(elemental? otherwise?)
+		spell weapon buff
+		spell weapon damage addition
+
+
+	other magic things
+		ethereal damage?
+
+	add to loot
+		prevent bleed, damage, etc on armor
+		utility spell buff
+
+
+
+
+	feels like systematic one-shotting
+		nerf flank? - automate it, add flank to output
+		many small monsters?
+		one giant monster?
+		one giant monster that makes smaller ones??
+			but periodically tho (in waves)
+
+	make it clearer how much damage something will do
+		sac an NPC as an example
+
+	'ticking' effect to combat, incremental losses
+		more consistant lower damage
+
+	2 kinds of combat
+		-quick skirmish (over quickly, but with possible losses)
+		-time bomb combat (consistant damage, or countdown to disaster)
+
+	readout for timeframe?
+	in rounds, or hours
+
+	faster movement/small maps (turns with only movement is too dull)
+	
+	puzzles are cool
+
+	some round-robin style system of player input
+		based on reflex, possibly
+
+	-in combat-
+	GM speaks
+	20 secs free for all (read sheet, respond to aftermath of last attacks)
+	ask for questions, each person gets up to 10 secs to talk to gm around table
+	each person declares actions and moves themselves on the map
+	get data, attack
+
+
+	trix resistant monsters
+
+
+
+	RULE WRITING
+	***********************************
+	debuff for untrainedness on a per skill basis
+	crafting, drug creation/dosing/effects
+	write down guidelines for channelling burn
+
+	fantasy flight / edge of the empire
+
+	
+	
+
+
+	
+
+
+	
+		
+
+
+
+
+
+				
+				
+	********************************************************
+	patch notes
+	********************************************************
+
+5.1------------------------------------------------------------------
+
+	Bugfixes
+		attack results/defend results appearing several hundred lines below where they should
+		every players defensive bonus always being zero, and their offensive bonus being wrong (oops)
+		bleed can now be bandaged properly
+
+	Changes
+		HP skill does much more now
+		Monsters are easier to hit, and less likely to instantly splat someone 
+		Terms 'damage' and 'harm' differentiated to make explanations easier
+		*Easier to manage effects now, because they are filtered by character
+		Armor is way better now
+
+	Additions
+		Extra detailed attack/defend results for last attack and defence
+			****people felt like they had no idea what the combat calculations were doing. This should help.	
+				
+		Nick has a control panel for monster attacks, and now pretty much runs the entirety of what monsters do.
+
+		Weapon, armor, and shield data available online
+			****again, to help you understand what is going on. Also, to help the balance of the game. Suggestions welcome.
+
+		CHANNELLING BURN
+
+	Comments
+		9 people, nobody picked a bow
+		you need armor, or reflex, or a lot of defensive bonus and a big weapon, or you will die! 
+					(all three will make you very tough)
+		endurance skill was commonly picked, but its mostly for casters.
+		different effects should really, really be different spells.
+
+
+
+
+	5.2---------------------------------------------------------------------------
+
+	Bugfixes
+		Low stamina doesnt bug out
+
+	Changes
+		Spells still hit reliably, but do much less damage. In general...
+			Big weapon+reflex	beats heavy armor
+			Heavy armor			beats spellcaster
+			Spellcaster			beats heavy weapon+reflex
+
+			using a shield makes you harder to hit, but you'll do less damage
+
+	Additions
+		Yall can cast your own spells now! Woo!
+
+	Comments
+
+
+	5.3-------------------------------------------------------------------------------
+
+	Bugfixes
+		Fixed bug that removes all spells from a players spell list when that player's stats
+			are updated. Spells should work now?
+
+	Changes
+		Bleed now deteriorates over time. E.G. If it does 3 harm to you this round, itll do 2 the next,
+		then one, then itll be gone.
+		Impairment on the other hand, is going to stick around, even between sessions. Healing items and
+		spells are v important.
+		Channelling burn is functional now
+
+	Additions
+		
+
+	Comments
+		Still a bunch of confusion in the last session about exactly what players can and cant do.
+		There are documents in the drive that are meant to be read! Character Creation, Combat Notes,
+		Spells and Spellcasting.... all of these are full of good info. Please tell your friendly GM if
+		anything is unclear, or if you feel something should be added to the docs.
+
+
+
+	5.4-------------------------------------------------------------------------------
+
+	Bugfixes
+		Combat testing fixes
+
+
+	Changes
+		Spellcasters do more damage than the last patch, but not as much as before the nerf
+
+	Additions
+		Links in char sheets to weapon/spell/shield/armor info
+		Added Ninja Notes! For all your secret-message-sending needs
+			Now stealing from dualikos is easier than ever
+		Silent/Passive Perception
+			We will ask for fewer perception rolls now... but be scared when
+			we start rolling d20s
+			Your sneak rolls are also much more standardized now
+		New Output for spells on the char sheet; you can see what effects your
+			spells are causing now
+
+	Comments
+		VERY likely to be some bugs, since so many finnicky features just got added
+		Some features (especially ninja notes) work in a somewhat counter-intuitive fashion, srry
+
+
+	5.5-------------------------------------------------------------------------------
+
+	Bugfixes
+		Random stamina loss partially fixed, more to come
+		Random extra attacks partially fixed, more to come
+
+	Changes
+
+	Additions
+
+	Comments
+
+	5.6-------------------------------------------------------------------------------
+
+	Bugfixes
+
+	Changes
+
+	Additions
+		Enchantments! This is a big hairy update. You'll se some new things happening, but
+			its very little compared to the number of extra things that are happening "under
+			the hood". Expect bugs, Im afraid. Oof.
+		Creature types for all characters and enemies.
+
+	Comments
+
+	5.7-------------------------------------------------------------------------------
+
+	Bugfixes
+		MAJOR improvements to google writes. As with all changes and fixes, this may generate
+			more bugs, but nevertheless we can expect the process of writing out to google sheets
+			to take about half the time it did before. Also, running out of writes and getting cut
+			off is MUCH less likely now. Woo.
+	Changes
+		It is now possible for any character to make an attack with any weapon. This is primarily
+			to expedite the use of consumable or found items (say, throwing a random bee at someone)
+			but it is now possible to change the weapon you'd like to use slightly later in the
+			calculation. Mostly, you can come up with stuff on the fly and its not a headache for me.
+			Essentially, annouce the attack you'd like to make, the GM will let you know what bonuses
+			to use, and then input your attack as though you were using one of your normal weapons.
+	Additions
+		Loot tables are added, expect a lot of random drops and more specific items to be found in
+			shops. 
+		Support for additional attacks implemented. You may now use double strike and etc.
+			Please read the combat document!
+		Added items! These carry many useful effects, and will be available for purchase, or as
+			random drops.
+		Weapons now carry enchantments, and magical weapons may have fairly fancy effects now
+		Enchantments given the ability to accept parameters, meaning it is now possible to
+			write a single enchantment and then give it to multiple targets at a different
+			power level each time (you have now have a 'level 3' thorns enchantment)
+		Stun is a meta-effect now, and refers to a negative value of 'focus' generated by 'trauma'
+	Comments
+		A lot of improvements on my end this time around, things should go more smoothly and faster.
+
+	5.8-------------------------------------------------------------------------------
+
+	Bugfixes
+
+	Changes
+		
+	Additions
+		The website. A whole new world of UI. Wowow
+
+	Comments
+		Who knows what will happen tbh
+
+	5.9-------------------------------------------------------------------------------
+
+	Bugfixes
+		Stopped form resubmission of page refresh
+	Changes
+		
+	Additions		
+		Inventory page, and user interface for items!
+	Comments
+		

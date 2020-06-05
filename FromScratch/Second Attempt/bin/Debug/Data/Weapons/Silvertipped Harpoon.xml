@@ -1,0 +1,190 @@
+<Weapon xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt">
+  <Count>0</Count>
+  <Description>Designed to bring down lycanthropes</Description>
+  <Enchantments xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:KeyValueOfIfElseLogicArrayOfKeyValueOfstringanyTypem_POwhFTf>
+      <d2p1:Key xmlns:d4p1="http://schemas.datacontract.org/2004/07/Second_Attempt.EnchantmentLogic">
+        <d4p1:conditions>
+          <d2p1:anyType i:type="d4p1:SourceCheck">
+            <d4p1:SourceType>EffectCheck</d4p1:SourceType>
+            <d4p1:logicType>SourceCheck</d4p1:logicType>
+            <d4p1:name i:nil="true" />
+          </d2p1:anyType>
+          <d2p1:anyType i:type="d4p1:EffectTypeCheck">
+            <d4p1:damType>DamageType</d4p1:damType>
+            <d4p1:effTag i:nil="true" />
+            <d4p1:effType>WeaponDamage</d4p1:effType>
+            <d4p1:logicType>EffectTypeCheck</d4p1:logicType>
+            <d4p1:name i:nil="true" />
+          </d2p1:anyType>
+          <d2p1:anyType i:type="d4p1:ParamReader">
+            <d4p1:Branch1>Character</d4p1:Branch1>
+            <d4p1:Branch2>Defender</d4p1:Branch2>
+            <d4p1:Branch3>CreatureType</d4p1:Branch3>
+            <d4p1:Branch4>TargetCreatureType</d4p1:Branch4>
+            <d4p1:logicType>ParamReader</d4p1:logicType>
+            <d4p1:name i:nil="true" />
+          </d2p1:anyType>
+        </d4p1:conditions>
+        <d4p1:elseResults>
+          <d2p1:anyType i:type="d4p1:PrintMessage">
+            <d4p1:logicType>PrintMessage</d4p1:logicType>
+            <d4p1:message />
+            <d4p1:name />
+          </d2p1:anyType>
+        </d4p1:elseResults>
+        <d4p1:ifResults>
+          <d2p1:anyType i:type="d4p1:ReturnValue">
+            <d4p1:logicType>ReturnValue</d4p1:logicType>
+            <d4p1:name i:nil="true" />
+            <d4p1:valueToReturn i:type="d4p1:GetVariable">
+              <d4p1:logicType>GetVariable</d4p1:logicType>
+              <d4p1:name i:nil="true" />
+              <d4p1:varName>Power</d4p1:varName>
+            </d4p1:valueToReturn>
+          </d2p1:anyType>
+          <d2p1:anyType i:type="d4p1:PrintMessage">
+            <d4p1:logicType>PrintMessage</d4p1:logicType>
+            <d4p1:message>Your attack is unusually effective.</d4p1:message>
+            <d4p1:name>Your attack is unusually effective.</d4p1:name>
+          </d2p1:anyType>
+        </d4p1:ifResults>
+        <d4p1:logicType>IfElseLogic</d4p1:logicType>
+        <d4p1:name>Prejudicial Bane</d4p1:name>
+        <d4p1:variables>
+          <d2p1:ArrayOfanyType>
+            <d2p1:anyType xmlns:d7p1="http://www.w3.org/2001/XMLSchema" i:type="d7p1:string">DamageType</d2p1:anyType>
+            <d2p1:anyType xmlns:d7p1="http://www.w3.org/2001/XMLSchema" i:type="d7p1:string">Mental</d2p1:anyType>
+          </d2p1:ArrayOfanyType>
+          <d2p1:ArrayOfanyType>
+            <d2p1:anyType xmlns:d7p1="http://www.w3.org/2001/XMLSchema" i:type="d7p1:string">Power</d2p1:anyType>
+            <d2p1:anyType xmlns:d7p1="http://www.w3.org/2001/XMLSchema" i:type="d7p1:string">0.8</d2p1:anyType>
+          </d2p1:ArrayOfanyType>
+          <d2p1:ArrayOfanyType>
+            <d2p1:anyType xmlns:d7p1="http://www.w3.org/2001/XMLSchema" i:type="d7p1:string">TargetCreatureType</d2p1:anyType>
+            <d2p1:anyType xmlns:d7p1="http://www.w3.org/2001/XMLSchema" i:type="d7p1:string">Lycanthrope</d2p1:anyType>
+          </d2p1:ArrayOfanyType>
+        </d4p1:variables>
+      </d2p1:Key>
+      <d2p1:Value>
+        <d2p1:KeyValueOfstringanyType>
+          <d2p1:Key>DamageType</d2p1:Key>
+          <d2p1:Value xmlns:d6p1="http://www.w3.org/2001/XMLSchema" i:type="d6p1:string">Mental</d2p1:Value>
+        </d2p1:KeyValueOfstringanyType>
+        <d2p1:KeyValueOfstringanyType>
+          <d2p1:Key>Power</d2p1:Key>
+          <d2p1:Value xmlns:d6p1="http://www.w3.org/2001/XMLSchema" i:type="d6p1:string">0.8</d2p1:Value>
+        </d2p1:KeyValueOfstringanyType>
+        <d2p1:KeyValueOfstringanyType>
+          <d2p1:Key>TargetCreatureType</d2p1:Key>
+          <d2p1:Value xmlns:d6p1="http://www.w3.org/2001/XMLSchema" i:type="d6p1:string">Lycanthrope</d2p1:Value>
+        </d2p1:KeyValueOfstringanyType>
+      </d2p1:Value>
+    </d2p1:KeyValueOfIfElseLogicArrayOfKeyValueOfstringanyTypem_POwhFTf>
+    <d2p1:KeyValueOfIfElseLogicArrayOfKeyValueOfstringanyTypem_POwhFTf>
+      <d2p1:Key xmlns:d4p1="http://schemas.datacontract.org/2004/07/Second_Attempt.EnchantmentLogic">
+        <d4p1:conditions>
+          <d2p1:anyType i:type="d4p1:SourceCheck">
+            <d4p1:SourceType>EffectCheck</d4p1:SourceType>
+            <d4p1:logicType>SourceCheck</d4p1:logicType>
+            <d4p1:name i:nil="true" />
+          </d2p1:anyType>
+          <d2p1:anyType i:type="d4p1:EffectTypeCheck">
+            <d4p1:damType>DamageType</d4p1:damType>
+            <d4p1:effTag i:nil="true" />
+            <d4p1:effType>WeaponDamage</d4p1:effType>
+            <d4p1:logicType>EffectTypeCheck</d4p1:logicType>
+            <d4p1:name i:nil="true" />
+          </d2p1:anyType>
+          <d2p1:anyType i:type="d4p1:ParamReader">
+            <d4p1:Branch1>Character</d4p1:Branch1>
+            <d4p1:Branch2>Defender</d4p1:Branch2>
+            <d4p1:Branch3>CreatureType</d4p1:Branch3>
+            <d4p1:Branch4>TargetCreatureType</d4p1:Branch4>
+            <d4p1:logicType>ParamReader</d4p1:logicType>
+            <d4p1:name i:nil="true" />
+          </d2p1:anyType>
+        </d4p1:conditions>
+        <d4p1:elseResults>
+          <d2p1:anyType i:type="d4p1:PrintMessage">
+            <d4p1:logicType>PrintMessage</d4p1:logicType>
+            <d4p1:message />
+            <d4p1:name />
+          </d2p1:anyType>
+        </d4p1:elseResults>
+        <d4p1:ifResults>
+          <d2p1:anyType i:type="d4p1:ReturnValue">
+            <d4p1:logicType>ReturnValue</d4p1:logicType>
+            <d4p1:name i:nil="true" />
+            <d4p1:valueToReturn i:type="d4p1:GetVariable">
+              <d4p1:logicType>GetVariable</d4p1:logicType>
+              <d4p1:name i:nil="true" />
+              <d4p1:varName>Power</d4p1:varName>
+            </d4p1:valueToReturn>
+          </d2p1:anyType>
+          <d2p1:anyType i:type="d4p1:PrintMessage">
+            <d4p1:logicType>PrintMessage</d4p1:logicType>
+            <d4p1:message>Your attack is unusually effective.</d4p1:message>
+            <d4p1:name>Your attack is unusually effective.</d4p1:name>
+          </d2p1:anyType>
+        </d4p1:ifResults>
+        <d4p1:logicType>IfElseLogic</d4p1:logicType>
+        <d4p1:name>Prejudicial Bane</d4p1:name>
+        <d4p1:variables>
+          <d2p1:ArrayOfanyType>
+            <d2p1:anyType xmlns:d7p1="http://www.w3.org/2001/XMLSchema" i:type="d7p1:string">DamageType</d2p1:anyType>
+            <d2p1:anyType xmlns:d7p1="http://www.w3.org/2001/XMLSchema" i:type="d7p1:double">0</d2p1:anyType>
+          </d2p1:ArrayOfanyType>
+          <d2p1:ArrayOfanyType>
+            <d2p1:anyType xmlns:d7p1="http://www.w3.org/2001/XMLSchema" i:type="d7p1:string">Power</d2p1:anyType>
+            <d2p1:anyType xmlns:d7p1="http://www.w3.org/2001/XMLSchema" i:type="d7p1:double">0</d2p1:anyType>
+          </d2p1:ArrayOfanyType>
+          <d2p1:ArrayOfanyType>
+            <d2p1:anyType xmlns:d7p1="http://www.w3.org/2001/XMLSchema" i:type="d7p1:string">TargetCreatureType</d2p1:anyType>
+            <d2p1:anyType xmlns:d7p1="http://www.w3.org/2001/XMLSchema" i:type="d7p1:double">0</d2p1:anyType>
+          </d2p1:ArrayOfanyType>
+        </d4p1:variables>
+      </d2p1:Key>
+      <d2p1:Value>
+        <d2p1:KeyValueOfstringanyType>
+          <d2p1:Key>DamageType</d2p1:Key>
+          <d2p1:Value xmlns:d6p1="http://www.w3.org/2001/XMLSchema" i:type="d6p1:string">Soul</d2p1:Value>
+        </d2p1:KeyValueOfstringanyType>
+        <d2p1:KeyValueOfstringanyType>
+          <d2p1:Key>Power</d2p1:Key>
+          <d2p1:Value xmlns:d6p1="http://www.w3.org/2001/XMLSchema" i:type="d6p1:string">0.8</d2p1:Value>
+        </d2p1:KeyValueOfstringanyType>
+        <d2p1:KeyValueOfstringanyType>
+          <d2p1:Key>TargetCreatureType</d2p1:Key>
+          <d2p1:Value xmlns:d6p1="http://www.w3.org/2001/XMLSchema" i:type="d6p1:string">Lycanthrope</d2p1:Value>
+        </d2p1:KeyValueOfstringanyType>
+      </d2p1:Value>
+    </d2p1:KeyValueOfIfElseLogicArrayOfKeyValueOfstringanyTypem_POwhFTf>
+  </Enchantments>
+  <IsEquipped>false</IsEquipped>
+  <IsIdentified>false</IsIdentified>
+  <ItemEffects />
+  <ItemName>Silvertipped Harpoon</ItemName>
+  <Type>Gloves</Type>
+  <UnidentifiedDescription i:nil="true" />
+  <Use>Equipable</Use>
+  <Weight>2</Weight>
+  <BlockingDifficulty>15</BlockingDifficulty>
+  <DamageTypes xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+      <d2p1:Key>Pierce</d2p1:Key>
+      <d2p1:Value>1.3</d2p1:Value>
+    </d2p1:KeyValueOfUtilities.DamageTypedoublenlt4N763>
+  </DamageTypes>
+  <DefensiveBonus>-1</DefensiveBonus>
+  <ExcessStrengthMultiplier>0</ExcessStrengthMultiplier>
+  <OffensiveBonus>8</OffensiveBonus>
+  <ParryBreak>1</ParryBreak>
+  <ParryStrength>0.1</ParryStrength>
+  <StaminaRequirement>5</StaminaRequirement>
+  <WeaponTypes>
+    <Utilities.WeaponType>Ranged</Utilities.WeaponType>
+    <Utilities.WeaponType>Physical</Utilities.WeaponType>
+    <Utilities.WeaponType>ThrownSpear</Utilities.WeaponType>
+  </WeaponTypes>
+</Weapon>

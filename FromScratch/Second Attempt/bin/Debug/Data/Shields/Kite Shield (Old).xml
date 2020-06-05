@@ -1,0 +1,16 @@
+<Shield xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt">
+  <Count>0</Count>
+  <Description>It won't fly real well, tbh</Description>
+  <Enchantments xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <IsEquipped>false</IsEquipped>
+  <IsIdentified>false</IsIdentified>
+  <ItemEffects />
+  <ItemName>Kite Shield (Old)</ItemName>
+  <Type>Gloves</Type>
+  <UnidentifiedDescription i:nil="true" />
+  <Use>Equipable</Use>
+  <Weight>2</Weight>
+  <Coverage>0.5</Coverage>
+  <DefensiveBonus>3</DefensiveBonus>
+  <OffensiveBonus>-3</OffensiveBonus>
+</Shield>

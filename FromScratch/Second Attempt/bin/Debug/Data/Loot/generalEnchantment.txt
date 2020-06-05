@@ -1,0 +1,14 @@
+unburden
+regenerate
+energize
+offensive buff
+defensive buff
+@stat buff
+@stat buff
+@stat buff
+@stat buff
+@skill buff
+@skill buff
+@skill buff
+@skill buff
+@skill buff

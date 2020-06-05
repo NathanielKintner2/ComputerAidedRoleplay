@@ -1,0 +1,7 @@
+gloves
+boots
+belt
+cape
+hood
+helmet
+cloak

@@ -1,0 +1,16 @@
+tier @d4plus2 @weaponEnchantment_ing and @masterworkWeapon
+tier @d4plus2 @weaponEnchantment_ing and @masterworkWeapon
+tier @d4plus2 @generalEnchantment_ing and @masterworkWeapon
+@masterworkWeapon and tier @d4plus2 @weaponEnchantment
+@masterworkWeapon and tier @d4plus2 @weaponEnchantment
+@masterworkWeapon and tier @d4plus2 @generalEnchantment
+tier @d6plus3 @weaponEnchantment_ing and @complexWeapon
+tier @d6plus3 @weaponEnchantment_ing and @complexWeapon
+tier @d6plus3 @weaponEnchantment_ing and @complexWeapon
+tier @d6plus3 @generalEnchantment_ing and @complexWeapon
+tier @d6plus3 @generalEnchantment_ing and @complexWeapon
+@complexWeapon and tier @d6plus3 @weaponEnchantment
+@complexWeapon and tier @d6plus3 @weaponEnchantment
+@complexWeapon and tier @d6plus3 @weaponEnchantment
+@complexWeapon and tier @d6plus3 @generalEnchantment
+@complexWeapon and tier @d6plus3 @generalEnchantment

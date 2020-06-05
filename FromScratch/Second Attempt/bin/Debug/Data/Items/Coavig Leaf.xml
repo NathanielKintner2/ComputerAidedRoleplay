@@ -1,0 +1,38 @@
+<Item xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Second_Attempt">
+  <Count>0</Count>
+  <Description>Leaves that make you go WHEEE</Description>
+  <Enchantments xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <IsEquipped>false</IsEquipped>
+  <IsIdentified>false</IsIdentified>
+  <ItemEffects>
+    <Effect>
+      <damageType i:nil="true" />
+      <deterioration>-1</deterioration>
+      <effectLength>15</effectLength>
+      <effectStrength>10</effectStrength>
+      <effectTag>NoTag</effectTag>
+      <effectTarget i:nil="true" />
+      <effectTypes>
+        <EffectHolder.EffectType>StaminaGain</EffectHolder.EffectType>
+      </effectTypes>
+      <isPermanent>false</isPermanent>
+    </Effect>
+    <Effect>
+      <damageType i:nil="true" />
+      <deterioration>-1</deterioration>
+      <effectLength>10</effectLength>
+      <effectStrength>5</effectStrength>
+      <effectTag>NoTag</effectTag>
+      <effectTarget i:nil="true" />
+      <effectTypes>
+        <EffectHolder.EffectType>Intelligence</EffectHolder.EffectType>
+      </effectTypes>
+      <isPermanent>false</isPermanent>
+    </Effect>
+  </ItemEffects>
+  <ItemName>Coavig Leaf</ItemName>
+  <Type>Potion</Type>
+  <UnidentifiedDescription i:nil="true" />
+  <Use>Consumable</Use>
+  <Weight>0.1</Weight>
+</Item>

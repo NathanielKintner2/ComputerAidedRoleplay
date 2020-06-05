@@ -1,0 +1,24 @@
+@color @lightArmor
+@color @lightArmor
+@descriptor @lightArmor
+@descriptor @lightArmor
+@descriptor @color @lightArmor
+@descriptor @color @lightArmor
+@color @heavyArmor
+@descriptor @heavyArmor
+@material @heavyArmor
+@descriptor @color @heavyArmor
+@descriptor @material @heavyArmor
+@color @material @heavyArmor
+@color @armorPiece
+@descriptor @armorPiece
+@material @armorPiece
+@descriptor @color @armorPiece
+@descriptor @material @armorPiece
+@color @material @armorPiece
+@color @armorPiece
+@descriptor @armorPiece
+@material @armorPiece
+@descriptor @color @armorPiece
+@descriptor @material @armorPiece
+@color @material @armorPiece
